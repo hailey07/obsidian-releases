@@ -82,63 +82,63 @@
     "author": "MrJackphil",
     "description": "Quickly navigate between links, or jump to any word on the page using hotkeys.",
     "repo": "mrjackphil/obsidian-jump-to-link"
-  },
+  }，
   {
     "id": "obsidian-reading-time",
     "name": "Reading Time",
     "author": "avr",
     "description": "Add the current note's reading time to the status bar.",
     "repo": "avr/obsidian-reading-time"
-  },
+  }，
   {
     "id": "todoist-sync-plugin",
     "name": "Todoist Sync",
     "author": "jamiebrynes7",
     "description": "Materialize Todoist tasks within your notes.",
     "repo": "jamiebrynes7/obsidian-todoist-plugin"
-  },
+  }，
   {
     "id": "obsidian-vimrc-support",
     "name": "Vimrc Support",
     "author": "esm",
     "description": "Auto-load a startup file with Vim commands.",
     "repo": "esm7/obsidian-vimrc-support"
-  },
+  }，
   {
     "id": "shortcuts-extender",
     "name": "Shortcuts extender",
     "author": "kitchenrunner",
     "description": "Use shortcuts for input special symbols without language switching.",
     "repo": "ryjjin/Obsidian-shortcuts-extender"
-  },
+  }，
   {
     "id": "mrj-crosslink-between-notes",
     "name": "Add links to current note",
     "author": "MrJackphil",
     "description": "A command to add a link to the current note at the bottom of selected notes.",
     "repo": "mrjackphil/obsidian-crosslink-between-notes"
-  },
+  }，
   {
     "id": "darlal-switcher-plus",
     "name": "Quick Switcher++",
     "author": "darlal",
-    "description": "Enhanced Quick Switcher, search open panels, and symbols.",
+    "description": "Enhanced Quick Switcher, search open panels, 和 symbols.",
     "repo": "darlal/obsidian-switcher-plus"
-  },
+  }，
   {
     "id": "obsidian-day-planner",
     "name": "Day Planner",
     "author": "James Lynch (continued by Ivan Lednev)",
     "description": "Day planning from a task list in a Markdown note with enhanced time block functionality.",
     "repo": "ivan-lednev/obsidian-day-planner"
-  },
+  }，
   {
     "id": "review-obsidian",
     "name": "Review",
     "author": "ryanjamurphy",
     "description": "Add a link to the current note to a daily note on a future date (or a past date, you time traveller).",
     "repo": "ryanjamurphy/review-obsidian"
-  },
+  }，
   {
     "id": "obsidian-hider",
     "name": "Hider",
@@ -236,140 +236,140 @@
     "description": "Enable alt+\u2191 and alt+\u2193 keyboard navigation.",
     "author": "ryanjamurphy",
     "repo": "ryanjamurphy/macOS-keyboard-nav-obsidian"
-  },
+  }，
   {
     "id": "extract-highlights-plugin",
     "name": "Extract Highlights",
     "description": "Extract all ==highlights== in a note into your clipboard.",
     "author": "Alexis Rondeau",
     "repo": "akaalias/extract-highlights-plugin"
-  },
+  }，
   {
     "id": "find-unlinked-files",
     "name": "Find orphaned files and broken links",
     "description": "Find files that are not linked anywhere and would otherwise be lost in your vault. In other words: files with no backlinks.",
     "author": "Vinzent",
     "repo": "Vinzent03/find-unlinked-files"
-  },
+  }，
   {
     "id": "wikilinks-to-mdlinks-obsidian",
     "name": "Wikilinks to MDLinks",
     "author": "Agatha Uy",
     "description": "Convert wikilinks to Markdown links and vice versa.",
     "repo": "agathauy/wikilinks-to-mdlinks-obsidian"
-  },
+  }，
   {
     "id": "smart-random-note",
     "name": "Smart Random Note",
     "author": "Eric Hall",
     "description": "Open random notes with greater control.",
     "repo": "erichalldev/obsidian-smart-random-note"
-  },
+  }，
   {
     "id": "cycle-through-panes",
     "name": "Tab Switcher",
     "author": "Vinzent & phibr0",
     "description": "Switch your tabs with Ctrl + Tab in recently used order like in a browser.",
     "repo": "Vinzent03/tab-switcher"
-  },
+  }，
   {
     "id": "music-code-blocks",
     "name": "ABC Music Notation",
     "author": "Til Blechschmidt",
     "description": "Render music sheets directly from code blocks using ABC music notation via abcjs.",
     "repo": "abcjs-music/obsidian-plugin-abcjs"
-  },
+  }，
   {
     "id": "cm-typewriter-scroll-obsidian",
     "name": "Typewriter Scroll",
     "author": "death_au",
     "description": "Typewriter-style scrolling which keeps the view centered in the editor.",
     "repo": "deathau/cm-typewriter-scroll-obsidian"
-  },
+  }，
   {
     "id": "obsidian-youglish-plugin",
     "name": "Youglish",
     "description": "Use YouTube to improve your pronunciation. YouGlish gives you fast, unbiased answers about how words is spoken by real people and in context.",
     "author": "Noureddine Haouari",
     "repo": "nhaouari/obsidian-youglish-plugin"
-  },
+  }，
   {
     "id": "obsidian-dangling-links",
     "name": "Dangling links",
     "author": "Graydon Hoare",
     "description": "Add a sidebar showing any dangling links in a vault. Dangling links are orphaned links that don't point to anything in the vault.",
     "repo": "graydon/obsidian-dangling-links"
-  },
+  }，
   {
     "id": "dangerzone-writing-plugin",
     "name": "Dangerzone Writing",
     "author": "Alexis Rondeau",
-    "description": "This plugin is dangerous! When you start it, you have to write without stopping for 100 seconds. If you stop, think and look around, after 3 seconds the plugin will DELETE what you've written in this note.",
+    "description": "This plugin is dangerous! When you start it, you have to write without stopping for 100 秒之前. If you stop, think and look around, after 3 秒之前 the plugin will DELETE what you've written in this note.",
     "repo": "akaalias/dangerzone-writing-plugin"
-  },
+  }，
   {
     "id": "maximise-active-pane-obsidian",
     "name": "Maximise Active Pane",
     "author": "death_au",
     "description": "Fill the workspace with the active pane.",
     "repo": "deathau/maximise-active-pane-obsidian"
-  },
+  }，
   {
     "id": "obsidian-juliandate",
     "name": "Julian Date",
     "author": "thek3nger",
     "description": "Add a shortcut to insert the current Julian date for astronomical observations.",
     "repo": "THeK3nger/obsidian-juliandate"
-  },
+  }，
   {
     "id": "obsidian-emoji-toolbar",
     "name": "Emoji Toolbar",
     "author": "oliveryh",
     "description": "Quickly search for and insert emojis into your editor.",
     "repo": "oliveryh/obsidian-emoji-toolbar"
-  },
+  }，
   {
     "id": "obsidian-fullscreen-plugin",
     "name": "Fullscreen Focus Mode",
     "author": "Razum",
     "description": "Add a command to view a single document leaf in a fullscreen focus mode.",
     "repo": "Razumihin/obsidian-fullscreen-plugin"
-  },
+  }，
   {
     "id": "footlinks",
     "name": "Footlinks",
     "author": "Daha",
     "description": "Extract URLs from main text to footer.",
     "repo": "DahaWong/obsidian-footlinks"
-  },
+  }，
   {
     "id": "obsidian-mind-map",
     "name": "Mind Map",
     "author": "James Lynch",
     "description": "Display Markdown notes as mind maps using Markmap.",
     "repo": "lynchjames/obsidian-mind-map"
-  },
+  }，
   {
     "id": "flashcards-obsidian",
     "name": "Flashcards",
     "author": "Alex Colucci",
     "description": "Anki integration.",
     "repo": "reuseman/flashcards-obsidian"
-  },
+  }，
   {
     "id": "completed-area",
     "name": "Completed Area",
     "author": "Daha",
     "description": "Move completed to-do items to a separate completed area.",
     "repo": "DahaWong/obsidian-completed-area"
-  },
+  }，
   {
     "id": "obsidian-citation-plugin",
     "name": "Citations",
     "author": "Jon Gauthier",
     "description": "Automatically search and insert citations from a Zotero library.",
     "repo": "hans/obsidian-citation-plugin"
-  },
+  }，
   {
     "id": "obsidian-to-anki-plugin",
     "name": "Export to Anki",
@@ -695,7 +695,7 @@
   {
     "id": "obsidian-vault-statistics-plugin",
     "name": "Vault Statistics",
-    "description": "Status bar item with vault statistics such as number of notes, files, attachments, and links.",
+    "description": "Status bar item with vault statistics such as number of notes, files, attachments, 和 links.",
     "author": "Bryan Kyle",
     "repo": "bkyle/obsidian-vault-statistics-plugin"
   },
@@ -810,63 +810,63 @@
     "description": "Remember cursor and scroll position for each note.",
     "author": "Dmitry Savosh",
     "repo": "dy-sh/obsidian-remember-cursor-position"
-  },
+  }，
   {
     "id": "pane-relief",
     "name": "Pane Relief",
     "author": "PJ Eby",
     "description": "Per-pane history, hotkeys for pane movement + navigation, and more.",
     "repo": "pjeby/pane-relief"
-  },
+  }，
   {
     "id": "DEVONlink-obsidian",
     "name": "DEVONlink",
     "description": "Open or reveal the current note in DEVONthink.",
     "author": "ryanjamurphy",
     "repo": "ryanjamurphy/DEVONlink-obsidian"
-  },
+  }，
   {
     "id": "hotkey-helper",
     "name": "Hotkey Helper",
     "author": "PJ Eby",
     "description": "Easily see and access any plugin's settings or hotkey assignments (and conflicts) from the Community Plugins tab.",
     "repo": "pjeby/hotkey-helper"
-  },
+  }，
   {
     "id": "text-snippets-obsidian",
     "name": "Text Snippets",
     "author": "Ariana Khitrova",
     "description": "Snippets for faster typing. Replace text templates, create your own, and expand text shortcuts.",
     "repo": "ArianaKhit/text-snippets-obsidian"
-  },
+  }，
   {
     "id": "consistent-attachments-and-links",
     "name": "Consistent attachments and links",
     "description": "Move note attachments and update links automatically.",
     "author": "Dmitry Savosh",
     "repo": "dy-sh/obsidian-consistent-attachments-and-links"
-  },
+  }，
   {
     "id": "obsidian-plantuml",
     "name": "PlantUML",
     "description": "Generate PlantUML diagrams.",
     "author": "Johannes Theiner",
     "repo": "joethei/obsidian-plantuml"
-  },
+  }，
   {
     "id": "imdone-obsidian-plugin",
     "name": "Open cards in imdone.",
     "description": "Open cards in imdone kanban from their source in Obsidian.",
     "author": "saxmanjes",
     "repo": "imdone/imdone-obsidian-plugin"
-  },
+  }，
   {
     "id": "unique-attachments",
     "name": "Unique attachments",
     "description": "Rename attachments, making their names unique (based on hashing of file content).",
     "author": "Dmitry Savosh",
     "repo": "dy-sh/obsidian-unique-attachments"
-  },
+  }，
   {
     "id": "obsidian-dice-roller",
     "name": "Dice Roller",
@@ -1321,91 +1321,91 @@
     "author": "mgmeyers",
     "description": "Convert quotes to curly quotes, dashes to em dashes, and periods to ellipses.",
     "repo": "mgmeyers/obsidian-smart-typography"
-  },
+  }，
   {
     "id": "obsidian-grandfather",
     "name": "Grandfather",
     "description": "Display the time and date in the status bar.",
     "author": "Danny Hernandez",
     "repo": "noatpad/obsidian-grandfather"
-  },
+  }，
   {
     "id": "obsidian-text-format",
     "name": "Text Format",
     "author": "Benature",
     "description": "Format selected text upper/lower/capitalize.",
     "repo": "Benature/obsidian-text-format"
-  },
+  }，
   {
     "id": "adjacency-matrix-maker",
     "name": "Adjacency Matrix Maker",
     "author": "SkepticMystic",
     "description": "Create an interactive adjacency matrix of your vault.",
     "repo": "SkepticMystic/adjacency-matrix-maker"
-  },
+  }，
   {
     "id": "taskbone-ocr-plugin",
     "name": "Taskbone",
     "description": "Extract text and equations from images and PDFs and make it available for search.",
     "author": "Dominik Schlund",
     "repo": "schlundd/obsidian-ocr-plugin"
-  },
+  }，
   {
     "id": "obsidian-gist",
     "name": "Gist",
     "description": "Display the GitHub Gist.",
-    "author": "Jun Lin",
+    "author": "6月Lin",
     "repo": "linjunpop/obsidian-gist"
-  },
+  }，
   {
     "id": "obsidian-argdown-plugin",
     "name": "Argument Map with Argdown",
     "description": "Write Argdown code blocks and view the maps in reading mode.",
     "author": "amdecker",
     "repo": "amdecker/obsidian-argdown-plugin"
-  },
+  }，
   {
     "id": "obsidian-csv-table",
     "name": "CSV Table",
     "description": "Render CSV data as a table within your notes.",
     "author": "Adam Coddington",
     "repo": "coddingtonbear/obsidian-csv-table"
-  },
+  }，
   {
     "id": "obsidian-advanced-new-file",
     "name": "Advanced New File",
     "description": "Create notes in chosen folder.",
     "author": "Ivan Chernov",
     "repo": "vanadium23/obsidian-advanced-new-file"
-  },
+  }，
   {
     "id": "file-explorer-note-count",
     "name": "File Explorer Note Count",
     "author": "Ozan Tellioglu",
     "description": "See the number of notes in each folder within the file explorer.",
     "repo": "ozntel/file-explorer-note-count"
-  },
+  }，
   {
     "id": "obsidian-title-index",
     "name": "Title index",
     "description": "Add serial numbers to your Markdown title.",
     "author": "renmu123",
     "repo": "renmu123/obsidian-markdown-index"
-  },
+  }，
   {
     "id": "quickadd",
     "name": "QuickAdd",
     "description": "Quickly add new notes or content to your vault.",
     "author": "Christian B. B. Houmann",
     "repo": "chhoumann/quickadd"
-  },
+  }，
   {
     "id": "obsidian-pluck",
     "name": "Pluck",
     "author": "Kevin Barrett",
     "description": "Quickly create notes from web pages.",
     "repo": "kevboh/obsidian-pluck"
-  },
+  }，
   {
     "id": "obsidian-pandoc",
     "name": "Pandoc",
@@ -1559,61 +1559,61 @@
     "description": "Add a minimal text formatting toolbar for a smoother writing/editing experience.",
     "author": "Chetachi",
     "repo": "chetachiezikeuzor/cMenu-Plugin"
-  },
+  }，
   {
     "id": "obsidian-daf-yomi",
     "name": "Daf Yomi",
     "author": "lyonsquark",
     "description": "Prepare Daf Yomi notes.",
     "repo": "lyonsquark/obsidian-daf-yomi"
-  },
+  }，
   {
     "id": "markdown-attributes",
     "name": "Markdown Attributes",
     "author": "Jeremy Valentine",
     "description": "Add Markdown attributes to elements.",
     "repo": "javalent/markdown-attributes"
-  },
+  }，
   {
     "id": "obsidian-wavedrom",
     "name": "WaveDrom",
     "author": "Alex Stewart",
     "description": "Create wavedrom plots.",
     "repo": "kingsquirrel152/obsidian-wavedrom"
-  },
+  }，
   {
     "id": "phone-to-roam-to-obsidian",
     "name": "Phone to Note",
     "author": "Dylan Garrett",
     "description": "An unofficial client for phonetonote.com (previously phonetoroam.com).",
     "repo": "dgarrett/phone-to-roam-to-obsidian"
-  },
+  }，
   {
     "id": "obsidian-wordnet-plugin",
     "name": "WordNet Dictionary",
     "description": "A large lexical database of English developed by Princeton University.",
     "author": "TfTHacker",
     "repo": "TfTHacker/Obsidian-WordNet"
-  },
+  }，
   {
     "id": "multi-line-formatting",
     "name": "Multi-line Formatting",
     "author": "nmady",
     "description": "Apply formatting to selected text, dealing with the paragraph breaks.",
     "repo": "nmady/obsidian-multi-line-formatting"
-  },
+  }，
   {
     "id": "obsidian-apply-patterns",
     "name": "Apply Patterns",
     "author": "Jacob Levernier",
     "description": "Apply custom patterns of find-and-replace in succession to text.",
     "repo": "jglev/obsidian-apply-patterns-plugin"
-  },
+  }，
   {
     "id": "longform",
     "name": "Longform",
     "author": "Kevin Barrett",
-    "description": "Helps you write and edit novels, screenplays, and other long projects.",
+    "description": "Helps you write and edit novels, screenplays, 和 other long projects.",
     "repo": "kevboh/longform"
   },
   {
@@ -1671,147 +1671,147 @@
     "author": "Dylan Elliott",
     "description": "Show the first Markdown header of a note in the file explorer.",
     "repo": "Dyldog/file-explorer-markdown-titles"
-  },
+  }，
   {
     "id": "theme-picker",
     "name": "Theme Picker",
     "author": "kenset",
     "description": "Quickly preview and select installed themes.",
     "repo": "trey-sedate/obsidian-theme-picker"
-  },
+  }，
   {
     "id": "emoji-shortcodes",
     "name": "Emoji Shortcodes",
     "description": "Enable the use of Markdown Emoji shortcodes :smile:, just like in Slack or Discord.",
     "author": "phibr0",
     "repo": "phibr0/obsidian-emoji-shortcodes"
-  },
+  }，
   {
     "id": "obsidian-reminder-plugin",
     "name": "Reminder",
     "author": "uphy",
     "description": "Manage Markdown TODOs with reminder.",
     "repo": "uphy/obsidian-reminder"
-  },
+  }，
   {
     "id": "obsidian-go-to-line",
     "name": "Go to Line",
     "author": "phibr0",
     "description": "Add a Go to Line command.",
     "repo": "phibr0/obsidian-go-to-line"
-  },
+  }，
   {
     "id": "open-with",
     "name": "Open with",
     "author": "phibr0",
     "description": "Add multiple other programs to open notes with.",
     "repo": "phibr0/obsidian-open-with"
-  },
+  }，
   {
     "id": "editor-commands-remap",
     "name": "Editor Commands Remap",
     "description": "Map hotkeys to editor commands.",
     "author": "cactus5",
     "repo": "c4ctus5/editor-commands-remap"
-  },
+  }，
   {
     "id": "obsidian-command-alias-plugin",
     "name": "Command Alias",
     "description": "Give aliases to commands.",
     "author": "@Yajamon",
     "repo": "yajamon/obsidian-command-alias-plugin"
-  },
+  }，
   {
     "id": "obsidian-rich-links",
     "name": "Rich Links",
     "author": "dhamaniasad",
     "description": "Convert URLs in your notes to rich link previews.",
     "repo": "dhamaniasad/obsidian-rich-links"
-  },
+  }，
   {
     "id": "ObsidianAnkiSync",
     "name": "Anki Sync",
     "author": "debanjandhar12",
     "description": "Make flashcards and sync them to Anki.",
     "repo": "debanjandhar12/Obsidian-Anki-Sync"
-  },
+  }，
   {
     "id": "window-collapse",
     "name": "Window Collapse",
     "author": "Guilherme Quental",
     "description": "An easy way to collapse the sidebars without going fullscreen.",
     "repo": "gquental/obsidian-window-collapse"
-  },
+  }，
   {
     "id": "obsidian-relative-find",
     "name": "Relative Find",
     "author": "phibr0",
     "description": "Search relative to your cursor position.",
     "repo": "phibr0/obsidian-relative-find"
-  },
+  }，
   {
     "id": "obsidian-image-toolkit",
     "name": "Image Toolkit",
-    "description": "Click images to preview with zoom, move, rotate, flip, invert, and copy.",
+    "description": "Click images to preview with zoom, move, rotate, flip, invert, 和 copy.",
     "author": "sissilab",
     "repo": "obsidian-community/obsidian-image-toolkit"
-  },
+  }，
   {
     "id": "obsidian-shellcommands",
     "name": "Shell commands",
     "description": "Define system commands that you want to execute via command palette, hotkeys, URI links or automated events. E.g. open external applications or perform automated file modifications.",
     "author": "Jarkko Linnanvirta",
     "repo": "Taitava/obsidian-shellcommands"
-  },
+  }，
   {
     "id": "hover-external-link",
     "name": "Hover External Link",
     "description": "Hover on external links to see the destination URL.",
     "author": "Jamie Brynes",
     "repo": "jamiebrynes7/obsidian-hover-external-link"
-  },
+  }，
   {
     "id": "obsidian-copy-block-link",
     "name": "Copy Block Link",
     "author": "mgmeyers",
     "description": "Get links to blocks and headings from the right-click menu.",
     "repo": "mgmeyers/obsidian-copy-block-link"
-  },
+  }，
   {
     "id": "drawio-obsidian",
     "name": "Diagrams",
     "description": "Create and edit Draw.io diagrams.",
     "author": "Sam Greenhalgh",
     "repo": "zapthedingbat/drawio-obsidian"
-  },
+  }，
   {
     "id": "luhman",
     "name": "Luhman",
     "author": "Dylan Elliott",
     "description": "Commands for handling a zettelkasten with Luhman-style IDs as filenames.",
     "repo": "Dyldog/luhman-obsidian-plugin"
-  },
+  }，
   {
     "id": "obsidian-daily-named-folder",
     "name": "Daily Named Folder",
     "author": "Nemo Andrea",
     "description": "Like daily notes, but nested in a daily folder with a oneline summary. Better for attachment management & glanceability.",
     "repo": "NemoAndrea/obsidian-daily-named-folder"
-  },
+  }，
   {
     "id": "obsidian-trello",
     "name": "Trello",
     "description": "Connect Trello cards to notes.",
     "author": "Nathonius",
     "repo": "nathonius/obsidian-trello"
-  },
+  }，
   {
     "id": "obsidian-annotator",
     "name": "Annotator",
     "description": "Read and annotate PDFs and EPUB files.",
     "author": "Elias Sundqvist",
     "repo": "elias-sundqvist/obsidian-annotator"
-  },
+  }，
   {
     "id": "customjs",
     "name": "CustomJS",
@@ -1846,63 +1846,63 @@
     "author": "Danny Hernandez",
     "description": "Add banner images to your notes!",
     "repo": "noatpad/obsidian-banners"
-  },
+  }，
   {
     "id": "obsidian-jump-to-date-plugin",
     "name": "Jump-to-Date",
     "description": "Popup calendar for quickly navigating dates.",
     "author": "TfTHacker",
     "repo": "TfTHacker/obsidian42-jump-to-date"
-  },
+  }，
   {
     "id": "obsidian-icon-folder",
     "name": "Iconize",
     "author": "FlorianWoelki",
-    "description": "Add icons to anything in Obsidian, including files, folders, and text.",
+    "description": "Add icons to anything in Obsidian, including files, folders, 和 text.",
     "repo": "FlorianWoelki/obsidian-iconize"
-  },
+  }，
   {
     "id": "ghost-fade-focus",
     "name": "Ghost Fade Focus",
     "author": "Sami Korpela",
     "description": "Focused on the current line, others faded like a ghost!",
     "repo": "skipadu/obsidian-ghost-fade-focus"
-  },
+  }，
   {
     "id": "obsidian-hackernews",
     "name": "HackerNews",
     "author": "arpitbbhayani",
     "description": "Periodically fetches and displays top stories from HackerNews.",
     "repo": "arpitbbhayani/obsidian-hackernews"
-  },
+  }，
   {
     "id": "obsidian-reset-font-size",
     "name": "Reset Font Size",
     "author": "luckman212",
     "description": "Add a button and command to reset the font size back to its default value.",
     "repo": "luckman212/obsidian-reset-font-size"
-  },
+  }，
   {
     "id": "podcast-note",
     "name": "Podcast Note",
     "author": "Marc Julian Schwarz",
     "description": "Podcast Note lets you automatically add podcast information to your notes.",
     "repo": "marcjulianschwarz/obsidian-podcast-note"
-  },
+  }，
   {
     "id": "obsidian-stille",
     "name": "Stille",
     "author": "Michael Lee",
     "description": "Focus on your writing, a section at a time.",
     "repo": "michaellee/stille"
-  },
+  }，
   {
     "id": "obsidian-markmind",
     "name": "Markmind",
     "author": "Mark",
     "description": "Mind map, outline and PDF annotation tool. (Closed source)",
     "repo": "MarkMindCkm/obsidian-markmind"
-  },
+  }，
   {
     "id": "obsidian-carry-forward",
     "name": "Carry-Forward",
@@ -1923,98 +1923,98 @@
     "description": "Enable to view your notes as cards.",
     "author": "PADAone",
     "repo": "yo-goto/obsidian-card-view-mode"
-  },
+  }，
   {
     "id": "scales-chords",
     "name": "Scales and Chords",
     "description": "Capture musical tab notation. Chords become clickable links to modal images (provided by scales-chords.com).",
     "author": "egradman",
     "repo": "egradman/scales-chords"
-  },
+  }，
   {
     "id": "copy-note",
     "name": "Enhance Copy Note",
     "author": "kzhovn",
     "description": "Add commands to copy active note and copy folders.",
     "repo": "kzhovn/copy-command-obsidian"
-  },
+  }，
   {
     "id": "customizable-menu",
     "name": "Customizable Menu",
     "author": "kzhovn",
     "description": "Add any command to Obsidian's right-click menu.",
     "repo": "kzhovn/obsidian-customizable-menu"
-  },
+  }，
   {
     "id": "workspaces-plus",
     "name": "Workspaces Plus",
     "description": "Quickly switch and manage workspaces.",
     "author": "NothingIsLost",
     "repo": "jsmorabito/obsidian-workspaces-plus"
-  },
+  }，
   {
     "id": "obsidian-read-it-later",
     "name": "ReadItLater",
     "description": "Save online content to your Vault, utilize embedded template engine and organize your reading list to your needs. Preserve the web with ReadItLater.",
     "author": "Dominik Pieper",
     "repo": "DominikPieper/obsidian-ReadItLater"
-  },
+  }，
   {
     "id": "obsidian42-text-transporter",
     "name": "Text Transporter",
     "description": "Advanced text tools for working with text in your vault.",
     "author": "TfTHacker",
     "repo": "TfTHacker/obsidian42-text-transporter"
-  },
+  }，
   {
     "id": "netwik",
     "name": "Netwik",
     "description": "Union Vault. Access a global network of notes. Anyone can create, view or edit notes. All changes will be synchronized between all participants.",
     "author": "Boris Bondarenko",
     "repo": "fivol/netwik-obsidian"
-  },
+  }，
   {
     "id": "obsidian-prominent-starred-files",
     "name": "Prominent Bookmarked Files",
     "description": "Prominently display bookmarked notes in the file explorer.",
     "author": "Jeremy Valentine",
     "repo": "javalent/prominent-files"
-  },
+  }，
   {
     "id": "ozanshare-publish",
     "name": "OzanShare Publish",
     "description": "Publish your Markdown notes with a single click from your vault. (Closed source)",
     "author": "Ozan Tellioglu",
     "repo": "ozntel/ozanshare-publish-plugin"
-  },
+  }，
   {
     "id": "obsidian-editor-shortcuts",
     "name": "Code Editor Shortcuts",
     "author": "Tim Hor",
     "description": "Add keyboard shortcuts (hotkeys) commonly found in code editors such as Visual Studio Code (VS Code) or Sublime Text.",
     "repo": "timhor/obsidian-editor-shortcuts"
-  },
+  }，
   {
     "id": "obsidian-task-collector",
     "name": "Task Collector (TC)",
     "description": "Change task status and collect tasks within a document using hotkeys and context menus.",
     "author": "ebullient",
     "repo": "ebullient/obsidian-task-collector"
-  },
+  }，
   {
     "id": "metadata-extractor",
     "name": "Metadata Extractor",
     "description": "Metadata export (on a schedule) for integration with third-party apps like launchers or graph analysis software.",
     "author": "kometenstaub",
     "repo": "kometenstaub/metadata-extractor"
-  },
+  }，
   {
     "id": "quick-latex",
     "name": "Quick LaTeX",
     "description": "Simplify and speed up LaTeX math typing.",
     "author": "joeyuping",
     "repo": "joeyuping/quick_latex_obsidian"
-  },
+  }，
   {
     "id": "obsidian-itinerary",
     "name": "Itinerary",
@@ -2105,77 +2105,77 @@
     "author": "Dmitriy Shulha",
     "description": "Embed Plotly charts in your notes.",
     "repo": "Dmytro-Shulha/obsidian-plotly"
-  },
+  }，
   {
     "id": "obsidian-wikipedia",
     "name": "Wikipedia",
     "description": "Get the first section of Wikipedia for a note title or search term.",
     "author": "Jonathan Miller",
     "repo": "jmilldotdev/obsidian-wikipedia"
-  },
+  }，
   {
     "id": "lumberjack-obsidian",
     "name": "Lumberjack",
     "description": "Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing.",
     "author": "ryanjamurphy",
     "repo": "ryanjamurphy/lumberjack-obsidian"
-  },
+  }，
   {
     "id": "obsidian-link-converter",
     "name": "Link Converter",
     "description": "Scan all your links in the vault and convert them to your desired format.",
     "author": "Ozan Tellioglu",
     "repo": "ozntel/obsidian-link-converter"
-  },
+  }，
   {
     "id": "mysnippets-plugin",
     "name": "MySnippets",
     "description": "A status bar menu allowing you to quickly toggle snippets on and off.",
     "author": "Chetachi",
     "repo": "chetachiezikeuzor/MySnippets-Plugin"
-  },
+  }，
   {
     "id": "obsidian-hypothesis-plugin",
     "name": "Hypothes.is",
     "description": "Sync your Hypothesis highlights.",
     "author": "weichenw",
     "repo": "weichenw/obsidian-hypothesis-plugin"
-  },
+  }，
   {
     "id": "obsidian-another-quick-switcher",
     "name": "Another Quick Switcher",
     "author": "tadashi-aikawa",
     "description": "Another choice of Quick switcher.",
     "repo": "tadashi-aikawa/obsidian-another-quick-switcher"
-  },
+  }，
   {
     "id": "meld-calc",
     "name": "Meld Calc",
     "description": "Do math! Evaluate math expressions within your notes.",
     "author": "meld-cp",
     "repo": "meld-cp/obsidian-calc"
-  },
+  }，
   {
     "id": "tabout",
     "name": "Tabout",
     "author": "phibr0",
     "description": "Easily 'tab out' of links or other Markdown formatting characters.",
     "repo": "phibr0/obsidian-tabout"
-  },
+  }，
   {
     "id": "quote-of-the-day",
     "name": "Quote of the Day",
     "description": "Insert random quotes in the editor.",
     "author": "Florin Bobis",
     "repo": "twentytwokhz/quote-of-the-day"
-  },
+  }，
   {
     "id": "obsidian-limelight",
     "name": "Limelight",
     "description": "Spotlight your active pane.",
     "author": "Scott Mikula",
     "repo": "smikula/obsidian-limelight"
-  },
+  }，
   {
     "id": "prompt",
     "name": "Prompt",
@@ -2343,70 +2343,70 @@
     "author": "Jordan Handy",
     "description": "Upload pasted images from your clipboard to Cloudinary.",
     "repo": "jordanhandy/obsidian-cloudinary-uploader"
-  },
+  }，
   {
     "id": "mousewheel-image-zoom",
     "name": "Mousewheel Image zoom",
     "description": "Increase or decrease the size of an image by scrolling.",
     "author": "Nico Jeske",
     "repo": "nicojeske/mousewheel-image-zoom"
-  },
+  }，
   {
     "id": "obsidian-flexible-pomo",
     "name": "Flexible Pomodoro",
     "description": "Add a pomodoro timer to your status bar. This pomodoro has additional options such as early log and extend.",
     "author": "grassbl8d",
     "repo": "grassbl8d/flexible-pomo-obsidian"
-  },
+  }，
   {
     "id": "obsidian-lineup-builder",
     "name": "Lineup Builder",
     "description": "Build football lineups.",
     "author": "James Fallon",
     "repo": "James-Fallon/obsidian-lineup-builder"
-  },
+  }，
   {
     "id": "reveal-active-file-button",
     "name": "Reveal Active File Button",
     "description": "Add a button to the top of the File Explorer, to reveal the active file.",
     "author": "Clare Macrae",
     "repo": "claremacrae/reveal-active-file-button-plugin"
-  },
+  }，
   {
     "id": "obsidian-structured-plugin",
     "name": "Structured",
     "description": "Structured plugin. Create hierarchy in notes using \".\"",
     "author": "dobrovolsky",
     "repo": "dobrovolsky/obsidian-structure"
-  },
+  }，
   {
     "id": "cooklang-obsidian",
     "name": "CookLang Editor",
     "description": "Edit and display CookLang recipes.",
     "author": "death_au/cooklang",
     "repo": "cooklang/cooklang-obsidian"
-  },
+  }，
   {
     "id": "highlightr-plugin",
     "name": "Highlightr",
     "description": "A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors.",
     "author": "Chetachi",
     "repo": "chetachiezikeuzor/Highlightr-Plugin"
-  },
+  }，
   {
     "id": "remotely-save",
     "name": "Remotely Save",
     "author": "fyears",
     "description": "Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.",
     "repo": "remotely-save/remotely-save"
-  },
+  }，
   {
     "id": "obsidian-notes-from-template",
     "name": "From Template",
-    "description": "Create new notes from Templates - for each Template, provides a Command to trigger it, and a form to fill in any variables in the template.",
+    "description": "Create new notes from Templates - for each Template, provides a Command to trigger it, 和 a form to fill in any variables in the template.",
     "author": "mo-seph",
     "repo": "mo-seph/obsidian-note-from-template"
-  },
+  }，
   {
     "id": "obsidian-overdue",
     "name": "Overdue",
@@ -2693,112 +2693,112 @@
     "author": "Eric Biewener",
     "description": "Protect your vault with a lock screen.",
     "repo": "ericbiewener/obsidian-lock-screen-plugin"
-  },
+  }，
   {
     "id": "pinboard-sync",
     "name": "Pinboard Sync",
     "author": "Mathew Spolin",
     "description": "Sync Pinboard.in links with your daily notes.",
     "repo": "Automatt/obsidian-pinboard-sync"
-  },
+  }，
   {
     "id": "obsidian-shortcut-launcher",
     "name": "Shortcut Launcher",
     "author": "MacStories",
     "description": "Trigger shortcuts in Apple's Shortcuts app from Obsidian with custom commands.",
     "repo": "macstories/obsidian-shortcut-launcher"
-  },
+  }，
   {
     "id": "obsidian-file-info-plugin",
     "name": "File Info Panel",
-    "description": "Create a File Info view that displays the active file's date created, date modified, file size, and links to open the file in its native application and to open the file's folder.",
+    "description": "Create a File Info view that displays the active file's date created, date modified, file size, 和 links to open the file in its native application and to open the file's folder.",
     "author": "CattailNu",
     "repo": "CattailNu/obsidian-file-info-panel-plugin"
-  },
+  }，
   {
     "id": "obsidian-topic-linking",
     "name": "Topic Linking",
     "author": "Liam Magee",
     "description": "Convert PDF files and web links to Markdown, and create topics from Markdown.",
     "repo": "liammagee/obsidian-topic-linking"
-  },
+  }，
   {
     "id": "multi-column-markdown",
     "name": "Multi-Column Markdown",
     "author": "Cameron Robinson",
     "description": "Create Markdown documents with multiple columns of content viewable in reading mode.",
     "repo": "ckRobinson/multi-column-markdown"
-  },
+  }，
   {
     "id": "copy-as-html",
     "name": "Copy as HTML",
     "author": "Bailey Jennings",
     "description": "Convert the selected Markdown to HTML and copy it to the clipboard.",
     "repo": "jenningsb2/copy-as-html"
-  },
+  }，
   {
     "id": "obsidian-frontmatter-tag-suggest",
     "name": "Frontmatter Tag Suggest",
     "description": "Autocomplete tags in the frontmatter tags field.",
     "author": "Jonathan Miller",
     "repo": "jmilldotdev/obsidian-frontmatter-tag-suggest"
-  },
+  }，
   {
     "id": "simple-note-quiz",
     "name": "Simple Note Quiz",
     "author": "beginner137",
     "description": "Start a simple quiz on your current note.",
     "repo": "beginner137/Obsidian-simple-note-quiz"
-  },
+  }，
   {
     "id": "obsidian-local-rest-api",
     "name": "Local REST API",
     "description": "Unlock your automation needs by interacting with your notes over a secure REST API.",
     "author": "Adam Coddington",
     "repo": "coddingtonbear/obsidian-local-rest-api"
-  },
+  }，
   {
     "id": "obsidian-codeblock-labels",
     "name": "Code Block Labels",
     "author": "Sean Bowers",
     "description": "Add labels to fenced code blocks.",
     "repo": "stbowers/obsidian-codeblock-labels"
-  },
+  }，
   {
     "id": "obsidian-better-command-palette",
     "name": "Better Command Palette",
     "author": "Alex Bieg",
     "description": "A command palette that does all of the things you want it to do.",
     "repo": "AlexBieg/obsidian-better-command-palette"
-  },
+  }，
   {
     "id": "obsidian-relativenumber",
     "name": "Relativenumber (relative line numbers)",
     "author": "Rob Stevenson",
     "description": "Display relative line numbers in the editor's gutter.",
     "repo": "thisdotrob/obsidian-relativenumber-plugin"
-  },
+  }，
   {
     "id": "obsidian-core-search-assistant-plugin",
     "name": "Core Search Assistant",
     "description": "Enhance built-in search: keyboard interface, card preview, bigger preview.",
     "author": "qawatake",
     "repo": "qawatake/obsidian-core-search-assistant-plugin"
-  },
+  }，
   {
     "id": "obsidian-save-as-gist",
     "name": "Save as Gist",
     "author": "ghedamat",
     "description": "Save current note as a GitHub Gist.",
     "repo": "ghedamat/obsidian-save-as-gist"
-  },
+  }，
   {
     "id": "obsidian-divide-and-conquer",
     "name": "Divide & Conquer",
     "author": "Chris Grieser (aka pseudometa)",
     "description": "Commands for bulk enabling/disabling of plugins. Useful for debugging when you have many plugins.",
     "repo": "chrisgrieser/obsidian-divide-and-conquer"
-  },
+  }，
   {
     "id": "obsidian-excel-to-markdown-table",
     "name": "Excel to Markdown Table",
@@ -2840,61 +2840,61 @@
     "author": "Signynt",
     "description": "Add a command to create a link to a heading.",
     "repo": "Signynt/insert-heading-link"
-  },
+  }，
   {
     "id": "settings-search",
     "name": "Settings Search",
     "author": "Jeremy Valentine",
     "description": "Globally search settings.",
     "repo": "javalent/settings-search"
-  },
+  }，
   {
     "id": "japanese-word-splitter",
     "name": "Word Splitting for Japanese in Edit Mode",
     "author": "sonarAIT",
     "description": "A patch for Obsidian's built-in CodeMirror Editor to support Japanese word splitting.",
     "repo": "sonarAIT/cm-japanese-patch"
-  },
+  }，
   {
     "id": "alx-folder-note-folderv",
     "name": "AidenLx's Folder Note - folderv Component",
     "description": "Optional `folderv` component for alx-folder-note.",
     "author": "AidenLx",
     "repo": "aidenlx/alx-folder-note-folderv"
-  },
+  }，
   {
     "id": "obsidian-chevereto-image-uploader",
     "name": "Chevereto Image Uploader",
     "description": "Upload images in your clipboard to Chevereto.",
     "author": "kkzzhizhou",
     "repo": "kkzzhizhou/obsidian-chevereto-image-uploader"
-  },
+  }，
   {
     "id": "todoist-text",
     "name": "Todoist Text",
     "author": "Wes Moncrief",
     "description": "Integrate your Todoist tasks with Markdown checkboxes.",
     "repo": "wesmoncrief/obsidian-todoist-text"
-  },
+  }，
   {
     "id": "big-calendar",
     "name": "Big Calendar",
     "author": "Boninall",
     "description": "A big calendar for Obsidian. All events from your daily notes OR tasks used TASKS/DATAVIEW/KANBAN format.",
     "repo": "Quorafind/Obsidian-Big-Calendar"
-  },
+  }，
   {
     "id": "obsidian-command-palette-minus-plugin",
     "name": "Command Palette--",
     "author": "qawatake",
     "description": "Command palette without unwanted commands.",
     "repo": "qawatake/obsidian-command-palette-minus-plugin"
-  },
+  }，
   {
     "id": "obsidian-remember-file-state",
     "name": "Remember File State",
     "author": "Ludovic Chabant",
-    "description": "Remember cursor position, selection, scrolling, and more for each file.",
+    "description": "Remember cursor position, selection, scrolling, 和 more for each file.",
     "repo": "ludovicchabant/obsidian-remember-file-state"
   },
   {
@@ -2917,84 +2917,84 @@
     "description": "Publish your notes to a digital garden for others to enjoy.",
     "author": "Ole Eskild Steensen",
     "repo": "oleeskild/obsidian-digital-garden"
-  },
+  }，
   {
     "id": "obsidian-living-graph",
     "name": "Living Graph",
     "description": "A for-fun graph plugin.",
     "author": "Garrett",
     "repo": "geoffreysflaminglasersword/obsidian-living-graph"
-  },
+  }，
   {
     "id": "obsidian-hotkeys-chords",
     "name": "Hotkeys Chords",
     "author": "Dario Balboni",
     "description": "Configurable hotkeys chords to activate commands.",
     "repo": "trenta3/obsidian-hotkeys-chords"
-  },
+  }，
   {
     "id": "obsidian-key-sequence-shortcut",
     "name": "Key Sequence Shortcut",
     "author": "anselmwang",
     "description": "Execute commands with short key sequences. For example, 'tp' for 'Toggle Preview' and 'tb' for 'Toggle Sidebar'. Easier to remember.",
     "repo": "anselmwang/obsidian-key-sequence-shortcut"
-  },
+  }，
   {
     "id": "obsidian-full-calendar",
     "name": "Full Calendar",
     "author": "Davis Haupt (@davish)",
     "description": "Keep events and manage your calendar alongside all your other notes in your vault.",
     "repo": "obsidian-community/obsidian-full-calendar"
-  },
+  }，
   {
     "id": "heatmap-calendar",
     "name": "Heatmap Calendar",
     "author": "Richard Slettevoll",
     "description": "Activity Year Overview for DataviewJS, Github style \u2013 Track Goals, Progress, Habits, Tasks, Exercise, Finances, \"Dont Break the Chain\" etc.",
     "repo": "Richardsl/heatmap-calendar-obsidian"
-  },
+  }，
   {
     "id": "obsidian-daily-notes-opener",
     "name": "Daily notes opener",
     "author": "Reorx",
     "description": "Easily open daily notes and periodic notes in new pane; customize periodic notes background; quick append new line to daily notes.",
     "repo": "reorx/obsidian-daily-notes-opener"
-  },
+  }，
   {
     "id": "obsidian-mark-and-select",
     "name": "Mark and Select",
     "author": "anselmwang",
     "description": "Set mark, move cursors freely and select from mark to cursor position.",
     "repo": "anselmwang/obsidian-mark-and-select"
-  },
+  }，
   {
     "id": "obsidian-bible-linker",
     "name": "Bible Linker",
     "author": "Jakub Kuchejda",
     "description": "Link/Copy multiple Bible verses easily using your own Bible files. Compatible with the Bible Study Kit.",
     "repo": "kuchejak/obsidian-bible-linker-plugin"
-  },
+  }，
   {
     "id": "obsidian-circuitjs",
     "name": "CircuitJS",
     "author": "Steven Gann",
     "description": "Embed CircuitJS circuit simulations into notes.",
     "repo": "StevenGann/obsidian-circuitjs"
-  },
+  }，
   {
     "id": "creases",
     "name": "Creases",
     "author": "Liam Cain",
     "description": "Tools for effectively folding Markdown sections.",
     "repo": "liamcain/obsidian-creases"
-  },
+  }，
   {
     "id": "obsidian-kobo-highlights-importer-plugin",
     "name": "Kobo Highlights Importer",
     "author": "Kevin Hellemun & Flavio Cordari",
     "description": "Import highlights from Kobo devices.",
     "repo": "OGKevin/obsidian-kobo-highlights-import"
-  },
+  }，
   {
     "id": "obsidian-dynamic-embed",
     "name": "Dynamic Embed",
@@ -3169,203 +3169,203 @@
     "author": "Johnson0907",
     "description": "Help you to view some recent daily notes on one page.",
     "repo": "johnsonhong997/obsidian-daily-notes-viewer"
-  },
+  }，
   {
     "id": "obsidian-zotero-desktop-connector",
     "name": "Zotero Integration",
     "author": "mgmeyers",
     "description": "Insert and import citations, bibliographies, notes, and PDF annotations from Zotero.",
     "repo": "mgmeyers/obsidian-zotero-integration"
-  },
+  }，
   {
     "id": "obsidian-telegraph-publish",
     "name": "Telegraph Publish",
     "author": "Reorx",
     "description": "Publish your note to a Telegraph page.",
     "repo": "reorx/obsidian-telegraph-publish"
-  },
+  }，
   {
     "id": "obsidian-path-title",
     "name": "Path Title",
     "author": "Justin Deal",
     "description": "Add the path (or optional replacement) to the filename title of each pane.",
     "repo": "jdeal/obsidian-path-title-plugin"
-  },
+  }，
   {
     "id": "obsidian-jira-issue",
     "name": "Jira Issue",
     "author": "marc0l92",
     "description": "Track the progress of Atlassian Jira issues from your notes.",
     "repo": "marc0l92/obsidian-jira-issue"
-  },
+  }，
   {
     "id": "smort-obsidian",
     "name": "Smort",
     "author": "Smort",
     "description": "Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate and share articles.",
     "repo": "SmortApp/obsidian-smort"
-  },
+  }，
   {
     "id": "control-characters",
     "name": "Control Characters",
     "author": "Johannes Theiner",
     "description": "Show control/non-printing characters in edit mode.",
     "repo": "joethei/obsidian-control-characters"
-  },
+  }，
   {
     "id": "obsidian-asciidoc-blocks",
     "name": "AsciiDoc Blocks",
     "author": "Juracy Filho",
     "description": "Render asciidoc blocks, initially asciidoc tables.",
     "repo": "juracy/obsidian-asciidoc-blocks"
-  },
+  }，
   {
     "id": "fleeting-notes-obsidian",
     "name": "Fleeting Notes Sync",
     "author": "Matthew Wong",
     "description": "Sync Fleeting Notes with Obsidian.",
     "repo": "fleetingnotes/fleeting-notes-obsidian"
-  },
+  }，
   {
     "id": "obsidian-chat-view",
     "name": "Chat View",
     "author": "Aditya Majethia",
     "description": "Chat View lets you quickly and easily create elegant Chat UIs in your Markdown Files.",
     "repo": "adifyr/obsidian-chat-view"
-  },
+  }，
   {
     "id": "obsidian-doubleshift",
     "name": "Doubleshift",
     "author": "Qwyntex",
     "description": "Open the command palette by pressing Shift (or any other key) twice like in IntelliJ and create your own shortcuts.",
     "repo": "Qwyntex/doubleshift"
-  },
+  }，
   {
     "id": "obsidian-list-modified",
     "name": "List Modified",
     "author": "Francis Kafieh",
     "description": "Link all modified files meeting certain criteria to a daily note.",
     "repo": "franciskafieh/obsidian-list-modified"
-  },
+  }，
   {
     "id": "obsidian-latex-suite",
     "name": "Latex Suite",
     "author": "artisticat1",
-    "description": "Make typesetting LaTeX math as fast as handwriting through snippets, text expansion, and editor enhancements.",
+    "description": "Make typesetting LaTeX math as fast as handwriting through snippets, text expansion, 和 editor enhancements.",
     "repo": "artisticat1/obsidian-latex-suite"
-  },
+  }，
   {
     "id": "obsidian-wordnik",
     "name": "Wordnik Definitions",
     "author": "Henry Gustafson",
     "description": "Grab information from Wordnik for a topic and bring it into your notes.",
     "repo": "lizard-heart/obsidian-wordnik-definitions"
-  },
+  }，
   {
     "id": "typing-speed",
     "name": "Typing speed",
     "author": "supercyp",
     "description": "Show the current typing speed in the status bar.",
     "repo": "Supercip971/obsidian-typing-speed"
-  },
+  }，
   {
     "id": "obsidian-google-tasks",
     "name": "Google Tasks",
     "author": "YukiGasai",
     "description": "Interact with your Google Tasks.",
     "repo": "YukiGasai/obsidian-google-tasks"
-  },
+  }，
   {
     "id": "obsidian-jtab",
     "name": "jTab Guitar Codeblocks",
     "author": "davfive",
     "description": "Add guitar chords and tabs to your notes with jTab code blocks.",
     "repo": "davfive/obsidian-jtab"
-  },
+  }，
   {
     "id": "obsidian-book-search-plugin",
     "name": "Book Search",
     "author": "anpigon",
     "description": "Create book notes and insert book metadata from providers including Google Books and Naver.",
     "repo": "anpigon/obsidian-book-search-plugin"
-  },
+  }，
   {
     "id": "obsidian-paste-image-rename",
     "name": "Paste image rename",
     "author": "Reorx",
     "description": "Rename image after pasting, support name pattern and auto renaming.",
     "repo": "reorx/obsidian-paste-image-rename"
-  },
+  }，
   {
     "id": "obsidian-scroll-offset",
     "name": "Scroll Offset",
     "author": "Lijyze",
     "description": "Preserve custom distances before or after cursor.",
     "repo": "lijyze/scroll-offset"
-  },
+  }，
   {
     "id": "obsius-publish",
     "name": "Obsius Publish",
     "author": "Jon Grythe St\u00f8dle",
     "description": "Make single notes instantly available on the web.",
     "repo": "jonstodle/obsius-obsidian-plugin"
-  },
+  }，
   {
     "id": "execute-code",
     "name": "Execute Code",
     "author": "twibiral",
     "description": "Execute code snippets within a note.",
     "repo": "twibiral/obsidian-execute-code"
-  },
+  }，
   {
     "id": "obsidian-badge",
     "name": "Badge",
     "description": "Render progress bars in your notes.",
     "author": "Jun Lin",
     "repo": "linjunpop/obsidian-badge"
-  },
+  }，
   {
     "id": "kr-book-info-plugin",
     "name": "Korean Book Info",
     "author": "kmsk99",
     "description": "Crawl Yes24 to get book information.",
     "repo": "kmsk99/kr-book-info-plugin"
-  },
+  }，
   {
     "id": "obsidian-link-embed",
     "name": "Link Embed",
     "author": "SErAphLi",
     "description": "Convert URLs in your notes into embeded previews.",
     "repo": "Seraphli/obsidian-link-embed"
-  },
+  }，
   {
     "id": "obsidian-columns",
     "name": "Columns",
     "author": "Trevor Nichols",
     "description": "Create columns in Markdown.",
     "repo": "tnichols217/obsidian-columns"
-  },
+  }，
   {
     "id": "obsidian-mkdocs-publisher",
     "name": "Enveloppe",
     "author": "Mara-Li",
     "description": "Publish your notes to a preconfigured GitHub repository.",
     "repo": "Enveloppe/obsidian-enveloppe"
-  },
+  }，
   {
     "id": "obsidian-notion-video",
     "name": "Notion Video Embed",
     "author": "lastknightcoder",
     "description": "Embed Notion videos.",
     "repo": "LastKnightCoder/obsidian-notion-video"
-  },
+  }，
   {
     "id": "obsidian-math-plus",
     "name": "Math+",
     "author": "Oscar Capraro",
     "description": "Take math notes using Excalidraw.",
     "repo": "ocapraro/obsidian-math-plus"
-  },
+  }，
   {
     "id": "obsidian-todoist-link",
     "name": "Todoist Link",
@@ -3414,63 +3414,63 @@
     "author": "Diego Alcantara",
     "description": "Look for missing linked mentions to the current note and import them into the current note.",
     "repo": "dalcantara7/obsidian-auto-moc"
-  },
+  }，
   {
     "id": "obsidian-paste-png-to-jpeg",
     "name": "Paste image Png to Jpeg",
     "author": "musug",
     "description": "Screenshot png to jpeg and compress and rename.",
     "repo": "musug/obsidian-paste-png-to-jpeg"
-  },
+  }，
   {
     "id": "obsidian-folder-index",
     "name": "Folder Index",
     "author": "turulix",
     "description": "Automatically generate a Map of Content for the current Folder and Subfolders.",
     "repo": "turulix/obsidian-folder-index"
-  },
+  }，
   {
     "id": "obsidian-filename-emoji-remover",
     "name": "Filename Emoji Remover",
     "author": "Y\u00fcksel Tolun",
     "description": "Automatically remove emojis from filenames. Main purpose is to get rid of Dropbox sync issues for Readwise imported content.",
     "repo": "YTolun/obsidian-filename-emoji-remover"
-  },
+  }，
   {
     "id": "obsidian-epub-plugin",
     "name": "ePub Reader",
     "description": "Open documents with \".epub\" file extension.",
     "author": "caronchen",
     "repo": "caronchen/obsidian-epub-plugin"
-  },
+  }，
   {
     "id": "obsidian-pandoc-reference-list",
     "name": "Pandoc Reference List",
     "author": "mgmeyers",
     "description": "Display a formatted reference in the sidebar for each Pandoc citekey present in the current document.",
     "repo": "mgmeyers/obsidian-pandoc-reference-list"
-  },
+  }，
   {
     "id": "obsidian-enhancing-export",
     "name": "Enhancing Export",
     "author": "YISH",
     "description": "Enhanced export based on Pandoc. Allows export to formats like HTML, DOCX, ePub and PDF or Hugo.",
     "repo": "mokeyish/obsidian-enhancing-export"
-  },
+  }，
   {
     "id": "enlightenment-obsidian",
     "name": "Enlightenment",
     "description": "Pay attention to what you're paying attention to. Enlightenment adds a 'zen mode' for Preview, hiding the contents of your notes except for what's underneath your pointer.",
     "author": "ryanjamurphy",
     "repo": "ryanjamurphy/enlightenment-obsidian"
-  },
+  }，
   {
     "id": "obsidian-release-timeline",
     "name": "Release Timeline",
     "author": "cakechaser",
     "description": "Release timeline rendered based on notes metadata with a Dataview-like syntax.",
     "repo": "cakechaser/obsidian-release-timeline"
-  },
+  }，
   {
     "id": "obsidian-folder-focus-mode",
     "name": "Folder Focus Mode",
@@ -4450,56 +4450,56 @@
     "author": "iiz",
     "description": "Add a custom view which shows outline of multiple daily notes with headings, links, tags and list items.",
     "repo": "iiz00/obsidian-daily-note-outline"
-  },
+  }，
   {
     "id": "edit-gemini",
     "name": "Edit Gemini",
     "author": "Basil_Mori",
     "description": "Edit and create .gmi files.",
     "repo": "Basil-Mori/obsidian-edit-gemini"
-  },
+  }，
   {
     "id": "obsidian-pretty-bibtex",
     "name": "Pretty BibTeX",
     "author": "Sandro Figo",
     "description": "Show raw BibTeX bibliography entries in a prettier way.",
     "repo": "sandrofigo/obsidian-pretty-bibtex"
-  },
+  }，
   {
     "id": "obsidian-scroll-to-top-plugin",
     "name": "Scroll to Top",
     "author": "cloudhao1999",
     "description": "Add a button to scroll to the top of the current note.",
     "repo": "cloudhao1999/obsidian-scroll-to-top-plugin"
-  },
+  }，
   {
     "id": "obsidian-old-note-admonitor",
     "name": "Old Note Admonitor",
     "description": "Show warnings if the note has not been updated for over specific days.",
     "author": "tadashi-aikawa",
     "repo": "tadashi-aikawa/obsidian-old-note-admonitor"
-  },
+  }，
   {
     "id": "obsidian-export-image",
     "name": "Export Image",
     "author": "Zhou Hua",
     "description": "Easily convert your article to image.",
     "repo": "zhouhua/obsidian-export-image"
-  },
+  }，
   {
     "id": "page-gallery",
     "name": "Page Gallery",
     "description": "Create an embeddable gallery based on selected page contents.",
     "author": "Nathan Clark",
     "repo": "tokenshift/obsidian-page-gallery"
-  },
+  }，
   {
     "id": "obsidian42-strange-new-worlds",
     "name": "Strange New Worlds",
     "description": "Reveal networked thought and the strange new worlds created by your vault.",
     "author": "TfTHacker",
     "repo": "TfTHacker/obsidian42-strange-new-worlds"
-  },
+  }，
   {
     "id": "obsidian-dynbedded",
     "name": "Dynbedded",
@@ -5714,7 +5714,7 @@
   {
     "id": "gemmy",
     "name": "Gemmy",
-    "description": "Obsidian Unhelper. 2023 April Fool's plugin brought to you by Obsidian.",
+    "description": "Obsidian Unhelper. 204月23日Fool's plugin brought to you by Obsidian.",
     "author": "Obsidian",
     "repo": "ericaxu/gemmy"
   },
@@ -6473,63 +6473,63 @@
     "author": "aqav",
     "description": "Add views to show \"outgoing links\" and \"backlinks\" of canvas in Obsidian.",
     "repo": "aqav/obsidian-canvas-links"
-  },
+  }，
   {
     "id": "hamsterbase",
     "name": "HamsterBase Official",
     "author": "HamsterBase",
     "description": "Official HamsterBase integration.",
     "repo": "hamsterbase/obsidian-hamsterbase"
-  },
+  }，
   {
     "id": "todotxt",
     "name": "TodoTxt",
     "author": "Mark Grimes",
     "description": "Manage Todo.txt files.",
     "repo": "mvgrimes/obsidian-todotxt-plugin"
-  },
+  }，
   {
     "id": "arcana",
     "name": "Arcana",
     "description": "Supercharge your note-taking through AI-powered insights and suggestions.",
     "author": "A-F-V",
     "repo": "A-F-V/obsidian-arcana"
-  },
+  }，
   {
     "id": "auto-anki",
     "name": "Auto Anki",
     "author": "ad2969",
     "description": "Using AI to automate card creation for Spaced Repetion in Anki.",
     "repo": "cadrianxyz/obsidian-auto-anki"
-  },
+  }，
   {
     "id": "api-request",
     "name": "APIRequest",
     "author": "rooyca",
     "description": "Request and retrieve data from APIs. The responses are delivered in a JSON format for easy integration with your notes.",
     "repo": "Rooyca/obsidian-api-request"
-  },
+  }，
   {
     "id": "link-with-alias",
     "name": "Link with alias",
     "author": "Pavel Vojtechovsky",
     "description": "Create links and aliases in front matter of target document.",
     "repo": "pvojtechovsky/obsidian-link-with-alias"
-  },
+  }，
   {
     "id": "hackerone",
     "name": "HackerOne",
     "author": "neolex",
     "description": "Fetch HackerOne bug reports.",
     "repo": "Neolex-Security/obsidian-hackerone"
-  },
+  }，
   {
     "id": "confluence-to-obsidian",
     "name": "Confluence Import",
     "author": "K",
     "description": "Import Confluence space into your vault.",
     "repo": "KkEi34/confluence-to-obsidian-plugin"
-  },
+  }，
   {
     "id": "flashcards-llm",
     "name": "Flashcards LLM",
@@ -6963,84 +6963,84 @@
     "author": "Mayuran Visakan",
     "description": "Style codeblocks and inline code in reading view and editing view.",
     "repo": "mayurankv/Obsidian-Code-Styler"
-  },
+  }，
   {
     "id": "auto-hyperlink",
     "name": "Auto Hyperlink",
     "author": "take6",
     "description": "Insert hyperlink according to user-defined rule.",
     "repo": "take6/obsidian-plugin-auto-hyperlink"
-  },
+  }，
   {
     "id": "colored-tags",
     "name": "Colored Tags",
     "author": "Pavel Frankov",
     "description": "Colorize tags in different colors to visually distinguish them from each other. Colors of nested tags are mixed with parent tags. Text color contrast is automatically matched to comply with AA level WCAG 2.1.",
     "repo": "pfrankov/obsidian-colored-tags"
-  },
+  }，
   {
     "id": "markdown-sync-scroll",
     "name": "Markdown Sync Scroll",
     "author": "ProjectXero",
     "description": "Allow two linked Markdown views to scroll synchronously.",
     "repo": "XeroAlpha/markdown-sync-scroll"
-  },
+  }，
   {
     "id": "ruled-template",
     "name": "Ruled template",
     "author": "YPetremann",
     "description": "Use templates based on rules when creating a new file.",
     "repo": "YPetremann/obsidian-ruled-template"
-  },
+  }，
   {
     "id": "ai-tools",
     "name": "AI Tools",
     "author": "solderneer",
-    "description": "Adding powerful semantic search, generative answers, and other AI tools, using Supabase + OpenAI.",
+    "description": "Adding powerful semantic search, generative answers, 和 other AI tools, using Supabase + OpenAI.",
     "repo": "solderneer/obsidian-ai-tools"
-  },
+  }，
   {
     "id": "oblogger",
     "name": "oblogger",
     "author": "loftTech",
     "description": "Tag explorer and frontmatter logger.",
     "repo": "loftTech/obsidian-oblogger"
-  },
+  }，
   {
     "id": "simple-canvasearch",
     "name": "Simple CanvaSearch",
     "author": "ddalexb",
     "description": "Quickly fuzzysearch notes, cards and their content and shift focus to them within the currently opened canvas.",
     "repo": "ddalexb/obsidian-simple-canvasearch"
-  },
+  }，
   {
     "id": "zettelgpt",
     "name": "ZettelGPT",
     "author": "Overraddit",
     "description": "Effortlessly generate context-aware answers from ChatGPT, while maintaining a visually clear and organized conversation history.",
     "repo": "OverRaddit/ZettelGPT"
-  },
+  }，
   {
     "id": "invio",
     "name": "Invio",
     "author": "frontend-engineering",
     "description": "Export docs as websites and deploy them to AWS S3 or compatible COS. Invio streamlines the process of publishing, enabling users to easily share their work online.",
     "repo": "frontend-engineering/Invio"
-  },
+  }，
   {
     "id": "periodic-para",
     "name": "LifeOS",
     "author": "YiBing Lin",
     "description": "Life management system.",
     "repo": "quanru/obsidian-lifeos"
-  },
+  }，
   {
     "id": "source-scanner",
     "name": "Source Scanner",
     "author": "Gerrie Myburgh",
     "description": "Scanner that extracts comments from source and places it in Markdown files.",
     "repo": "gerrie-myburgh/source-scanner"
-  },
+  }，
   {
     "id": "markdown-to-slack-message",
     "name": "Markdown to Slack Message",
@@ -8524,63 +8524,63 @@
     "author": "Odaimoko",
     "description": "A Project Management Tool: Tag tasks everywhere, Manage in One page.",
     "repo": "Odaimoko/tag-project"
-  },
+  }，
   {
     "id": "multi-properties",
     "name": "Multi Properties",
     "author": "fez-github",
     "description": "Add properties to multiple notes at once. Either right-click a folder or select multiple notes and right-click the selection.",
     "repo": "technohiker/obsidian-multi-properties"
-  },
+  }，
   {
     "id": "nothing",
     "name": "Nothing",
     "author": "Chris Grieser (aka pseudometa)",
     "description": "Add a no-op command to disable hotkeys.",
     "repo": "chrisgrieser/obsidian-nothing"
-  },
+  }，
   {
     "id": "slackify-note",
     "name": "Slackify Note",
     "author": "Jeremy Overman",
     "description": "Convert a note to Slack-compliant Markdown.",
     "repo": "jeremyoverman/obsidian-slackify-note"
-  },
+  }，
   {
     "id": "timestamp-link",
     "name": "Timestamp Link",
     "author": "wenlzhang",
     "description": "Copy timestamped links to blocks, headings and notes.",
     "repo": "wenlzhang/obsidian-timestamp-link"
-  },
+  }，
   {
     "id": "keyword-highlighter",
     "name": "Keyword Highlighter",
     "author": "Marcel Goldammer",
     "description": "Automatically highlight specified keywords within your notes for enhanced visibility and quick reference.",
     "repo": "marcel-goldammer/obsidian-keyword-highlighter"
-  },
+  }，
   {
     "id": "zhongwen-block",
     "name": "Zhongwen Block",
     "author": "Kodai Matsumoto",
     "description": "Code blocks with features for Chinese learners.",
     "repo": "0918nobita/obsidian-zhongwen-block"
-  },
+  }，
   {
     "id": "vocabulary-highlighter",
     "name": "Vocabulary Highlighter",
     "author": "eatgrass",
     "description": "Hightlight vocabulary based on the word frequency.",
     "repo": "eatgrass/obsidian-vocab-highlighter"
-  },
+  }，
   {
     "id": "zettelkasten-outliner",
     "name": "Zettelkasten Outliner",
     "author": "Tyler Suzuki Nelson",
     "description": "A list representation for your Zettelkasten.",
     "repo": "tylersuzukinelson/zettelkasten-outliner"
-  },
+  }，
   {
     "id": "quick-tagger",
     "name": "Quick Tagger",
@@ -9133,84 +9133,84 @@
     "author": "John Mavrick",
     "description": "OpenAI GPT Assistants functionality",
     "repo": "ransurf/obsidian-intelligence"
-  },
+  }，
   {
     "id": "neighbouring-files",
     "name": "Neighbouring Files",
     "author": "Fabian Untermoser",
     "description": "Navigate to the next and previous file in the current directory.",
     "repo": "FabianUntermoser/obsidian-neighbouring-files-plugin"
-  },
+  }，
   {
     "id": "storyclock",
     "name": "Storyclock Viewer",
     "author": "Jonathan Fisher",
     "description": "Map timing onto a storyclock. Inspired by Plot Devices Storyclock.",
     "repo": "jonzfisher/obsidian-chronostory"
-  },
+  }，
   {
     "id": "local-gpt",
     "name": "Local GPT",
     "author": "Pavel Frankov",
     "description": "Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access.",
     "repo": "pfrankov/obsidian-local-gpt"
-  },
+  }，
   {
     "id": "tmayoff-meals",
     "name": "Meal Plan",
     "author": "Tyler Mayoff",
     "description": "Meal planning and recipe manager.",
     "repo": "tmayoff/obsidian-meals"
-  },
+  }，
   {
     "id": "emoji-autocomplete",
     "name": "Emoji Autocomplete",
     "author": "KraXen72",
     "description": "Smart suggestions when typing emoji shortcodes & more! :star:",
     "repo": "KraXen72/obsidian-emoji-autocomplete"
-  },
+  }，
   {
     "id": "open-as-md",
     "name": "open-as-md",
     "author": "kursad-k",
     "description": "Edit non-md file types as Markdown files.",
     "repo": "kursad-k/obsidian-openasmd"
-  },
+  }，
   {
     "id": "ribbon-divider",
     "name": "Ribbon Divider",
     "author": "Andrew McGivery",
     "description": "Add dividers to the ribbon to space out your icons.",
     "repo": "andrewmcgivery/obsidian-ribbon-divider"
-  },
+  }，
   {
     "id": "hill-charts",
     "name": "Hill Charts",
     "author": "stufro",
     "description": "Add hill charts to your notes.",
     "repo": "stufro/obsidian-hill-charts"
-  },
+  }，
   {
     "id": "ollama-chat",
     "name": "Ollama Chat",
     "author": "Brumik",
     "description": "Chat with your notes using Ollama and LlamaIndex.",
     "repo": "brumik/obsidian-ollama-chat"
-  },
+  }，
   {
     "id": "canvas-card-bg-remover",
     "name": "Canvas Card Background Remover",
     "author": "luxmargos",
     "description": "Make the background of cards transparent in canvas files.",
     "repo": "luxmargos/obsidian-canvas-card-bg-remover"
-  },
+  }，
   {
     "id": "latex-ocr",
     "name": "Latex OCR",
     "author": "Lucas Van Mol",
     "description": "Generate LaTeX equations from images in your vault or clipboard.",
     "repo": "lucasvanmol/obsidian-latex-ocr"
-  },
+  }，
   {
     "id": "object-writer",
     "name": "Object Writer",
@@ -9903,84 +9903,84 @@
     "author": "pistacchio",
     "description": "Add programmable controls to selected tables.",
     "repo": "pistacchio/obsidian-enhanced-tables"
-  },
+  }，
   {
     "id": "folders2graph",
     "name": "Folders to Graph",
     "author": "Ratibus11",
     "description": "Display your vault folder structure into your graphs.",
     "repo": "ratibus11/folders2graph"
-  },
+  }，
   {
     "id": "lean-syntax-highlight",
     "name": "Lean Syntax Highlight",
     "author": "tomaz1502",
     "description": "Provides live syntax highlight for the Lean programming language",
     "repo": "tomaz1502/lean-syntax-highlight"
-  },
+  }，
   {
     "id": "ai-tagger",
     "name": "AI Tagger",
     "author": "Luca Grippa",
     "description": "Simplify tagging. Instantly analyze and tag your document with one click for efficient note organization. OpenAI API key required.",
     "repo": "lucagrippa/obsidian-ai-tagger"
-  },
+  }，
   {
     "id": "quiz-generator",
     "name": "Quiz Generator",
     "author": "Edward Cui",
-    "description": "Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.",
+    "description": "Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), 和 more. Or manually create your own to use with the quiz UI.",
     "repo": "ECuiDev/obsidian-quiz-generator"
-  },
+  }，
   {
     "id": "goban-sgf",
     "name": "Goban SGF",
     "author": "Stinson",
     "description": "Record Go games (SGF format goban).",
     "repo": "StinsonZhao/obsidian-plugin-goban-sgf"
-  },
+  }，
   {
     "id": "display-relative-path-img",
     "name": "Display Relative Path Img",
     "author": "Dyc",
     "description": "Display the image of the <img> tag",
     "repo": "dyc2424748461/obsidian-display-relative-path-img"
-  },
+  }，
   {
     "id": "metadata-icon",
     "name": "Metadata Icon",
     "author": "Benature",
     "description": "Set custom icons for your properties.",
     "repo": "Benature/obsidian-metadata-icon"
-  },
+  }，
   {
     "id": "fileorganizer2000",
     "name": "Note Companion AI",
     "author": "Jean-Philippe Fong",
     "description": "AI-powered note organization and chat. Requires subscription or self-hosting with your own API keys.",
     "repo": "Nexus-JPF/note-companion"
-  },
+  }，
   {
     "id": "spotify-api",
     "name": "Spotify API",
     "author": "Darren-project",
     "description": "Exposes Spotify API",
     "repo": "Darren-project/obsidian-spotify"
-  },
+  }，
   {
     "id": "pf2e-statblocks",
     "name": "PF2e Statblocks",
     "author": "Tyler Pixley",
     "description": "Render Pathfinder 2e statblocks cleanly, using only Markdown-based syntax.",
     "repo": "pixley/pf2e-statblock-for-obsidian"
-  },
+  }，
   {
     "id": "canvas-link-optimizer",
     "name": "Canvas Link Optimizer",
     "author": "Qbject",
     "description": "Optimize Canvas links by displaying a page thumbnail.",
     "repo": "Qbject/obsidian-canvas-link-optimizer"
-  },
+  }，
   {
     "id": "inline-admonitions",
     "name": "Inline Admonitions",
@@ -10106,63 +10106,63 @@
     "author": "bitegw",
     "description": "Provides a widget based on a pomodoro kitchen timer. It's designed to be haptic, and has a constant ticking sound, and an alarm sound that can be toggled.",
     "repo": "gvvim/obsidian-pomodoro-widget"
-  },
+  }，
   {
     "id": "yesterday",
     "name": "Yesterday",
     "author": "Dominik Mayer",
-    "description": "Transform your notes into a visually stunning diary, integrating dialogs, chat logs, and media content blocks for a seamless journaling experience.",
+    "description": "Transform your notes into a visually stunning diary, integrating dialogs, chat logs, 和 media content blocks for a seamless journaling experience.",
     "repo": "dominikmayer/obsidian-yesterday"
-  },
+  }，
   {
     "id": "gitlab-wiki-export",
     "name": "Gitlab Wiki Exporter",
     "author": "Josef Rabmer",
     "description": "Makes your entire vault Gitlab Wiki compatible and exports it to a specified location.",
     "repo": "jrabmer/obsidian-to-gitlab-wiki"
-  },
+  }，
   {
     "id": "mblog-publish",
     "name": "MBlog Publish",
     "author": "Jerry",
     "description": "\u901a\u8fc7Obsidian\u53d1\u5e03\u6587\u7ae0\u5230MBlog\u5e73\u53f0",
     "repo": "kingwrcy/obsidian-mblog"
-  },
+  }，
   {
     "id": "text-focus",
     "name": "Text Focus",
     "author": "usysrc",
     "description": "Focus the text area when creating new notes",
     "repo": "usysrc/obsidian-text-focus-plugin"
-  },
+  }，
   {
     "id": "tab-shifter",
     "name": "Tab Shifter",
     "author": "Joshua Rozner",
     "description": "Enables shifting tabs between different tab splits",
     "repo": "jsrozner/obsidian-tab-shifter"
-  },
+  }，
   {
     "id": "alias-management",
     "name": "Alias Management",
     "author": "WithMarcel",
     "description": "Identify duplicate notes based on similar aliases and filenames.",
     "repo": "WithMarcel/alias-management"
-  },
+  }，
   {
     "id": "historica",
     "name": "historica",
     "author": "Nhan Nguyen",
     "description": "Intelligently generates timeline from your content",
     "repo": "nhannht/obsidian-historica"
-  },
+  }，
   {
     "id": "date-inserter",
     "name": "Date Inserter",
     "author": "namikaze-40p",
     "description": "Insert a date at the cursor position using a calendar.",
     "repo": "namikaze-40p/obsidian-date-inserter"
-  },
+  }，
   {
     "id": "tekken-notation",
     "name": "Tekken Notation",
@@ -10295,56 +10295,56 @@
     "author": "Sean Collings",
     "description": "Quickly and easily publish your notes to the web with Orion Publish.",
     "repo": "seanrcollings/orion-publish-plugin"
-  },
+  }，
   {
     "id": "gistr",
     "name": "Gistr",
     "author": "Aetherinox",
-    "description": "Use your notes to embed, create, and update gists for Github and Opengist.",
+    "description": "Use your notes to embed, create, 和 update gists for Github and Opengist.",
     "repo": "Aetherinox/obsidian-gistr"
-  },
+  }，
   {
     "id": "things3-today",
     "name": "Things3 Today",
     "author": "wudanyang6",
     "description": "Manage today's tasks with Things3.",
     "repo": "wudanyang6/obsidian-things3-today"
-  },
+  }，
   {
     "id": "command-block-list",
     "name": "Command Block List",
     "author": "Ryota Ushio",
     "description": "Hide unwanted commands from the command palette.",
     "repo": "RyotaUshio/obsidian-command-block-list"
-  },
+  }，
   {
     "id": "crafty",
     "name": "Crafty",
     "author": "liolle",
     "description": "Add tooltip to any canvas node and quickly navigate between canvas nodes.",
     "repo": "liolle/Crafty"
-  },
+  }，
   {
     "id": "color-cycler",
     "name": "Color cycler",
     "author": "Taylor Brennan",
     "description": "Dynamically change the accent color of the theme.",
     "repo": "tjbrennan/obsidian-color-cycler"
-  },
+  }，
   {
     "id": "markmap-to-csv",
     "name": "Markmap to CSV",
     "description": "Converts Markmap data to CSV format.",
     "author": "maxlee",
     "repo": "pj4316/markmap-to-csv-obsidian"
-  },
+  }，
   {
     "id": "ear-training",
     "name": "Ear Training",
     "author": "Poe Zoel",
     "description": "Get ear training exercises inside your vault.",
     "repo": "shiwer/ear-training-obsidian-plugin"
-  },
+  }，
   {
     "id": "hugo-codeblock-highlight",
     "name": "Hugo codeblock highlight",
@@ -11170,63 +11170,63 @@
     "author": "Steven Zilberberg",
     "description": "Quickly format an Azure DevOps issue tag as a link to you Azure DevOps instance.",
     "repo": "srz2/obsidian-azure-devops-linker"
-  },
+  }，
   {
     "id": "arenasys-ai-chat",
     "name": "AI Chat",
     "author": "arenasys",
     "description": "Chat with AI about your notes.",
     "repo": "arenasys/obsidian-ai-chat"
-  },
+  }，
   {
     "id": "local-llm-helper",
     "name": "Local LLM Helper",
     "author": "Mani Mohan",
     "description": "Use a local LLM server to augment your notes",
     "repo": "manimohans/obsidian-local-llm-helper"
-  },
+  }，
   {
     "id": "text2audio",
     "name": "Text2Audio",
     "author": "Haifeng Lu",
     "description": "Convert text to speech.",
     "repo": "luhaifeng666/obsidian-text2audio"
-  },
+  }，
   {
     "id": "ruby-wasm",
     "name": "ruby.wasm",
     "author": "geeknees",
     "description": "Run ruby code in your notes using WebAssembly.",
     "repo": "geeknees/obsidian-ruby-wasm-plugin"
-  },
+  }，
   {
     "id": "tinychart",
     "name": "TinyChart",
     "author": "Alin Coop",
     "description": "Generate simple ASCII charts.",
     "repo": "alincoop/obsidian-tinychart"
-  },
+  }，
   {
     "id": "checkbox-sounds",
     "name": "Checkbox Sounds",
     "author": "yasd251",
     "description": "Adds a nice completion sound to checkboxes when ticked off",
     "repo": "yasd251/checkbox-sounds-plugin"
-  },
+  }，
   {
     "id": "zettelkasten-navigation",
     "name": "zettelkasten navigation",
     "author": "terrychenzw",
     "description": "Visualize a Luhmann-style zettelkasten.",
     "repo": "PKM-er/obsidian-zettelkasten-navigation"
-  },
+  }，
   {
     "id": "canvasblocks",
     "name": "Canvas Blocks",
     "author": "Kay606",
     "description": "Execute python scripts from canvas",
     "repo": "Kay607/obsidian-canvasblocks"
-  },
+  }，
   {
     "id": "timekeep",
     "name": "Timekeep",
@@ -11938,65 +11938,65 @@
     "id": "smart-memos",
     "name": "Smart Memos",
     "author": "Evan Moscoso",
-    "description": "Create personalized and intelligent analysis, brainstorms, summaries, transcriptions, and more for audio recordings that can be imported or spoken directly into a note",
+    "description": "Create personalized and intelligent analysis, brainstorms, summaries, transcriptions, 和 more for audio recordings that can be imported or spoken directly into a note",
     "repo": "Mossy1022/Smart-Memos"
-  },
+  }，
   {
     "id": "syrinscape-player-control",
     "name": "Syrinscape Online Player",
     "author": "Stephen Cooper",
     "description": "Control Syrinscape Online Player from inside of notes.",
     "repo": "scooper4711/obsidian-syrinscape"
-  },
+  }，
   {
     "id": "quran-helper",
     "name": "Quran Helper",
     "author": "Ammar Alakkad",
     "description": "Find and insert any Quran Ayah (verse) in your notes.",
     "repo": "AmmarCodes/obsidian-quran-helper-plugin"
-  },
+  }，
   {
     "id": "page-scroll",
     "name": "Page Scroll",
     "author": "triski",
     "description": "Page Up|Down|Top|Bottom",
     "repo": "chenshutian9610/obsidian-pagescroll-plugin"
-  },
+  }，
   {
     "id": "wechat-public-platform",
     "name": "Wechat Public Platform",
     "description": "Release the article from your vault to WeChat, Baidu Baijiahao, or another article release platform.",
     "author": "Blake Chan",
     "repo": "ai-chen2050/obsidian-wechat-public-platform"
-  },
+  }，
   {
     "id": "note-to-mp",
     "name": "NoteToMP",
     "author": "Sun Booshi",
     "description": "Send notes to WeChat MP drafts, or copy notes to WeChat MP editor, perfect preservation of note styles, support code highlighting, line numbers in code, and support local image uploads.",
     "repo": "sunbooshi/note-to-mp"
-  },
+  }，
   {
     "id": "xournalpp",
     "name": "Xournal++",
     "author": "Jon Jampen",
     "description": "Integration with Xournal++ for handwritten notes and annotations.",
     "repo": "jonjampen/obsidian-xournalpp"
-  },
+  }，
   {
     "id": "dataview-serializer",
     "name": "Dataview Serializer",
     "author": "S\u00e9bastien Dubois",
     "description": "Serialize Dataview queries to Markdown, and keep the Markdown representation up to date",
     "repo": "dsebastien/obsidian-dataview-serializer"
-  },
+  }，
   {
     "id": "fast-text-color",
     "name": "Fast Text Color",
     "author": "Leon Holtmeier",
     "description": "Quickly apply fully integrated text coloring and formatting with a custom syntax and a keyboard-centric interface.",
     "repo": "Superschnizel/obsidian-fast-text-color"
-  },
+  }，
   {
     "id": "guid-renamer",
     "name": "Guid Renamer",
@@ -12073,63 +12073,63 @@
     "author": "JaewonE",
     "description": "Helps you styling checkboxes in preview mode.",
     "repo": "jaewonE/checkbox-styling-helper"
-  },
+  }，
   {
     "id": "import-attachments-plus",
     "name": "Import Attachments+",
     "author": "Andrea Alberti",
     "description": "Import and manage attachments by enabling moving and linking",
     "repo": "alberti42/obsidian-import-attachments-plus"
-  },
+  }，
   {
     "id": "virtual-linker",
     "name": "Virtual Linker / Glossary",
     "description": "Automatically creates virtual links for text within your notes that match the titles or aliases of other notes in your vault. Create a glossary-like functionality, show unlinked mentions and transform them to real links.",
     "author": "Valentin Schr\u00f6ter",
     "repo": "vschroeter/obsidian-virtual-linker"
-  },
+  }，
   {
     "id": "arena-manager",
     "name": "Are.na Manager",
     "author": "Javier Arce",
     "description": "Publish content from your vault to Arena and the other way around.",
     "repo": "javierarce/arena-manager"
-  },
+  }，
   {
     "id": "shrink-pinned-tabs",
     "name": "Shrink pinned tabs",
     "author": "Nicolas L\u0153uillet",
     "description": "Shrinks pinned tabs to save screen space.",
     "repo": "nicosomb/obsidian-shrink-pinned-tabs"
-  },
+  }，
   {
     "id": "remove-newlines",
     "name": "Remove Newlines",
     "author": "Elias Jaffe",
     "description": "Remove line breaks or blank lines from text selected in the editor, or as you paste from the clipboard.",
     "repo": "HandcartCactus/obsidian-remove-newlines"
-  },
+  }，
   {
     "id": "entity-linker",
     "name": "Entity Linker",
     "author": "Ankush-Chander",
     "description": "Link research terms to standard entities",
     "repo": "Ankush-Chander/obsidian-entity-linker"
-  },
+  }，
   {
     "id": "datepicker",
     "name": "Datepicker",
     "author": "Mostafa Mohamed",
     "description": "Use a date picker to modify and insert date/time anywhere in your markdown notes.",
     "repo": "joycode-hub/datepicker-plugin"
-  },
+  }，
   {
     "id": "ai-chat-as-md",
     "name": "AI Chat as Markdown",
     "author": "Charl P. Botha",
     "description": "Multiple branching AI conversations as Markdown hierarchy",
     "repo": "cpbotha/obsidian-ai-chat-as-md"
-  },
+  }，
   {
     "id": "sidebar-resizer",
     "name": "Sidebar Resizer",
@@ -12574,7 +12574,7 @@
   {
     "id": "learnie",
     "name": "Learnie",
-    "description": "Enhance your learning with active recall and spaced repetition. Track changes, create review questions, and streamline your study process for more effective, long-lasting learning.",
+    "description": "Enhance your learning with active recall and spaced repetition. Track changes, create review questions, 和 streamline your study process for more effective, long-lasting learning.",
     "author": "tankh99",
     "repo": "tankh99/learnie-plugin"
   },
@@ -13039,91 +13039,91 @@
     "author": "Epiphany",
     "description": "Synchronize voice notes from the Epiphany app directly into your vault",
     "repo": "Epiphany-Notes/epiphany-obsidian-plugin"
-  },
+  }，
   {
     "id": "pexels-banner",
     "name": "Pixel Banner",
     "author": "Justin Parker",
-    "description": "Enhance your notes with customizable banner images, including AI-generated designs and a curated store of downloadable banners. Transform your workspace with visually stunning headers that add context, improve aesthetics, and take your note-taking beyond the ordinary.",
+    "description": "Enhance your notes with customizable banner images, including AI-generated designs and a curated store of downloadable banners. Transform your workspace with visually stunning headers that add context, improve aesthetics, 和 take your note-taking beyond the ordinary.",
     "repo": "jparkerweb/pixel-banner"
-  },
+  }，
   {
     "id": "rich-foot",
     "name": "Rich Foot",
     "author": "Justin Parker",
     "description": "Adds backlink tags and created/modified dates to the footer of your notes.",
     "repo": "jparkerweb/rich-foot"
-  },
+  }，
   {
     "id": "pintora",
     "name": "Pintora",
     "author": "Amias Lee",
     "description": "Generates diagrams using Pintora.",
     "repo": "amiaslee/obsidian-pintora"
-  },
+  }，
   {
     "id": "alignment-tracker",
     "name": "Alignment Tracker",
     "author": "LittleOwl",
     "description": "Track character alignment using a 3x3 grid.",
     "repo": "FioPio/ObsidianAlignmentTracker"
-  },
+  }，
   {
     "id": "auto-pause",
     "name": "AutoPause",
     "author": "Chris Kephart",
     "description": "Allows one audio track to be played at a time, pausing or stopping any others.",
     "repo": "ckep1/obsidian-autopause"
-  },
+  }，
   {
     "id": "code-language-completer",
     "name": "Code Language Completer",
     "author": "Stanley Wang",
     "description": "Autosuggests and completes codeblock language options based on history.",
     "repo": "stanley-910/obsidian-code-language-completer"
-  },
+  }，
   {
     "id": "guitar-chord",
     "name": "Guitar Chord",
     "author": "Barba828",
     "description": "Quickly enter and display guitar chords, with optional chords based on music theory. No need to write in code blocks, they can be inserted and edited directly in the document.",
     "repo": "Barba828/obsidian-plugin-chord"
-  },
+  }，
   {
     "id": "symlink-creator",
     "name": "Symlink Creator",
     "author": "Tobias Heidler",
     "description": "Create symlinks to files and folders inside and outside of your vault.",
     "repo": "pteridin/obsidian_symlink_plugin"
-  },
+  }，
   {
     "id": "remove-unused-block-ids",
     "name": "Remove Unused Block IDs",
     "author": "Daniel Geneta",
     "description": "Remove unused block ids in your vault.",
     "repo": "isdmg/obsidian-remove-unused-block-ids"
-  },
+  }，
   {
     "id": "collapse-linked-mentions",
     "name": "Collapse Linked Mentions",
     "author": "Nathan K.",
     "description": "Automatically collapse embedded backlink mentions",
     "repo": "n810K/obsidian-collapse-linked-mentions"
-  },
+  }，
   {
     "id": "remove-html-tag",
     "name": "Remove HTML Tag",
     "author": "ChenPengyuan",
     "description": "Remove HTML tags from Markdown files",
     "repo": "gitcpy/obsidian-remove-html-tag"
-  },
+  }，
   {
     "id": "diagram-zoom-drag",
     "name": "Image Zoom & Drag",
     "author": "ChenPengyuan(gitcpy) & Ssentiago",
-    "description": "Make any image or diagram interactive with zoom, drag, and control panels",
+    "description": "Make any image or diagram interactive with zoom, drag, 和 control panels",
     "repo": "Ssentiago/image-zoom-drag"
-  },
+  }，
   {
     "id": "figma-embed",
     "name": "Figma Embed",
@@ -13156,7 +13156,7 @@
     "id": "magic-mic",
     "name": "Magic Mic",
     "author": "Drew McDonald",
-    "description": "Record, transcribe, and summarize audio directly into your vault with custom assistants.",
+    "description": "Record, transcribe, 和 summarize audio directly into your vault with custom assistants.",
     "repo": "drewmcdonald/obsidian-magic-mic"
   },
   {
@@ -13445,84 +13445,84 @@
     "author": "Lucas Langholf",
     "description": "Translations at your fingertips. Inline Translations for your Notes.",
     "repo": "kon-foo/Obsidian-Translate-Inline"
-  },
+  }，
   {
     "id": "youtube-iframe-timestamps",
     "name": "Youtube Iframe Timestamps",
     "description": "Allows you to embed YouTube videos with timestamps directly in your notes, enabling seamless referencing and note-taking without needing to open a separate browser window.",
     "author": "Nils Leo",
     "repo": "NilsLeo/obsidian-youtube-iframe-timestamps"
-  },
+  }，
   {
     "id": "random-retrieval",
     "name": "random-retrieval",
     "author": "Rachninomav",
     "description": "Random Note Retrieval based on LLM.",
     "repo": "JeanJean-rxl/random-retrieval-plugin"
-  },
+  }，
   {
     "id": "occura-word-highlighter",
     "name": "Occura",
     "author": "Alexey Sedoykin",
     "description": "Find and highlight all occurrences of selected text in notes, similar to Notepad++ or IDEs.",
     "repo": "Krusty84/obsidian-occura-plugin"
-  },
+  }，
   {
     "id": "callout-toggles",
     "name": "Callout Toggles",
     "author": "Aly Thobani",
     "description": "Quickly add, change, or remove callouts in your notes.",
     "repo": "alythobani/obsidian-callout-toggles"
-  },
+  }，
   {
     "id": "copy-image-text",
     "name": "\u590d\u5236\u56fe\u6587 (Copy Image Text)",
     "author": "msgk",
     "description": "Copy note content (including text and images) to clipboard. \u590d\u5236\u7b14\u8bb0\u5185\u5bb9\uff08\u5305\u62ec\u6587\u672c\u548c\u56fe\u7247\uff09\u5230\u526a\u8d34\u677f\u3002",
     "repo": "msgk239/obsidian-copy-image-text"
-  },
+  }，
   {
     "id": "fold-properties",
     "name": "Fold Properties",
     "author": "James Alexandre",
     "description": "Adds fold/unfold properties function to folder and file context menu",
     "repo": "itsonlyjames/obsidian-fold-properties"
-  },
+  }，
   {
     "id": "vault-full-statistics",
     "name": "Vault Full Statistics",
     "author": "Mikhail Savin",
     "description": "Status bar item with vault full statistics such as number of notes, files, attachments, links, tags and quality of vault.",
     "repo": "jtprogru/obsidian-vault-full-statistics-plugin"
-  },
+  }，
   {
     "id": "downloadpdf",
     "name": "downloadPDF",
     "author": "Frieda",
     "description": "Allows you to download all included PDF files.",
     "repo": "frieda21/downloadPDF"
-  },
+  }，
   {
     "id": "booknav",
     "name": "BookNav",
     "author": "jemberton",
     "description": "Book style page navigation.",
     "repo": "jemberton/obsidian-booknav-plugin"
-  },
+  }，
   {
     "id": "pdf2img",
     "name": "PDF2Image",
     "author": "RasmusAChr",
     "description": "Turns a PDF into a series of images.",
     "repo": "RasmusAChr/PDF2Images"
-  },
+  }，
   {
     "id": "smart-composer",
     "name": "Smart Composer",
     "author": "Heesu Suh",
-    "description": "AI chat with note context, smart writing assistance, and one-click edits for your vault.",
+    "description": "AI chat with note context, smart writing assistance, 和 one-click edits for your vault.",
     "repo": "glowingjade/obsidian-smart-composer"
-  },
+  }，
   {
     "id": "session-notes",
     "name": "Session Notes",
@@ -13891,7 +13891,7 @@
     "id": "standardform",
     "name": "StandardForm",
     "author": "Phil Baum",
-    "description": "Transforms code blocks with Standard Form logical syntax into clean, styled renderings. Perfect for philosophy, logic, and argument reconstructions.",
+    "description": "Transforms code blocks with Standard Form logical syntax into clean, styled renderings. Perfect for philosophy, logic, 和 argument reconstructions.",
     "repo": "philphilphil/obsidian-standardform"
   },
   {
@@ -13933,7 +13933,7 @@
     "id": "ai-bot",
     "name": "AI bot",
     "author": "kuzzh",
-    "description": "Polish, summarize, translate, analyze, and interpret code using AI",
+    "description": "Polish, summarize, translate, analyze, 和 interpret code using AI",
     "repo": "kuzzh/obsidian-ai-bot"
   },
   {
@@ -13947,7 +13947,7 @@
     "id": "markdown-tags",
     "name": "Tags for Markdown",
     "author": "John Smith III",
-    "description": "Enhance your Markdown documents with tags and arrow tags. Use predefined or custom labels, customizable colors, and arrow indicators to visually track tasks and statuses.",
+    "description": "Enhance your Markdown documents with tags and arrow tags. Use predefined or custom labels, customizable colors, 和 arrow indicators to visually track tasks and statuses.",
     "repo": "binarynoir/obsidian-markdown-tags"
   },
   {
@@ -14052,7 +14052,7 @@
     "id": "post-webhook",
     "name": "Post Webhook",
     "author": "MasterB1234",
-    "description": "Send notes to webhook endpoints, for seamless integration with i.a. n8n, Make.com, and Zapier.",
+    "description": "Send notes to webhook endpoints, for seamless integration with i.a. n8n, Make.com, 和 Zapier.",
     "repo": "Masterb1234/obsidian-post-webhook"
   },
   {
@@ -14129,7 +14129,7 @@
     "id": "heatmap-tracker",
     "name": "Heatmap Tracker",
     "author": "Maksim Rubanau",
-    "description": "Visualize your activity and track goals, progress, habits, tasks, exercise, finances, and more\u2014all in a single, interactive heatmap!",
+    "description": "Visualize your activity and track goals, progress, habits, tasks, exercise, finances, 和 more\u2014all in a single, interactive heatmap!",
     "repo": "mokkiebear/heatmap-tracker"
   },
   {
@@ -14369,91 +14369,91 @@
     "author": "Oli",
     "description": "Render mathematical graphs.",
     "repo": "olillin/obsidian-kale-graph"
-  },
+  }，
   {
     "id": "scribe",
     "name": "Scribe",
     "author": "Mike Alicea",
     "description": "Record voice notes, Fill in lost thoughts, Transcribe the audio, Summarize & Visualize the text - All in one clip",
     "repo": "Mikodin/obsidian-scribe"
-  },
+  }，
   {
     "id": "custom-image-auto-uploader",
     "name": "Custom Image Auto Uploader",
     "author": "HaierKeys",
     "description": "You can upload and save images from your notes to your remote server, home NAS, or sync them to your cloud storage (Alibaba Cloud OSS, Amazon S3, Cloudflare R2).",
     "repo": "haierkeys/obsidian-custom-image-auto-uploader"
-  },
+  }，
   {
     "id": "wonderbox",
     "name": "WonderBox",
     "author": "Christian HUMBERT",
     "description": "Create more relevant text sections your tips, top notes, warnings and more",
     "repo": "Chrstn67/WonderBox"
-  },
+  }，
   {
     "id": "kkh",
     "name": "kkh",
     "author": "\u5948\u5e7e\u4e43(uakms)",
     "description": "Replace words in a string using kkh dictionary.",
     "repo": "okikae/obsid-kkh"
-  },
+  }，
   {
     "id": "import-todoist",
     "name": "Import Todoist tasks",
     "author": "Duke",
     "repo": "dukex/obsidian-import-todoist",
     "description": "Import Todoist tasks as Markdown tasks."
-  },
+  }，
   {
     "id": "link-maintainer",
     "name": "Link Maintainer",
     "author": "wenlzhang",
     "description": "Maintain note links when splitting or reorganizing notes.",
     "repo": "wenlzhang/obsidian-link-maintainer"
-  },
+  }，
   {
     "id": "export-to-html",
     "name": "Export to HTML",
     "author": "kalvn",
     "description": "Export your Markdown notes as HTML, directly in the clipboard or as a file.",
     "repo": "kalvn/obsidian-export-to-html"
-  },
+  }，
   {
     "id": "node-flow",
     "name": "NodeFlow",
     "author": "LincZero",
     "description": "Render node streams like `ComfyUi`, `UE`, `Houdini`, `Blender`, etc., to make it easy to write relevant notes. JSON describes the chart, compared to screenshots, making it easier to modify later. The plugin is also compatible with blogs.",
     "repo": "LincZero/obsidian-node-flow"
-  },
+  }，
   {
     "id": "send-note",
     "name": "Send Note",
     "description": "Instantly send a note, to other users so they can import them into their vault via URL.",
     "author": "jvsteiner",
     "repo": "jvsteiner/send-note"
-  },
+  }，
   {
     "id": "project-tasks",
     "name": "Project Tasks",
     "author": "Paul Paterson",
     "description": "Allows you to easily create linked tasks for projects by managing the task ID's and dependencies.",
     "repo": "paulpaterson/obsidian-project-tasks"
-  },
+  }，
   {
     "id": "cursor-position-on-title-enter",
     "name": "Cursor Position on Title Enter",
     "author": "Por Chainarong Tangsurakit",
     "description": "Set the cursor position after pressing Enter on the note title.",
     "repo": "chaintng/cursor-position-on-title-enter"
-  },
+  }，
   {
     "id": "smart-context",
     "name": "Smart Context",
     "author": "\ud83c\udf34 Brian",
-    "description": "Instantly copy folder contents or open notes\u2014excluding specified headings\u2014into your clipboard. Perfect for providing curated context to tools like ChatGPT, improving responses, and streamlining your AI workflows.",
+    "description": "Instantly copy folder contents or open notes\u2014excluding specified headings\u2014into your clipboard. Perfect for providing curated context to tools like ChatGPT, improving responses, 和 streamlining your AI workflows.",
     "repo": "brianpetro/smart-context-obsidian"
-  },
+  }，
   {
     "id": "bin-theme-controller",
     "name": "Theme Controller",
@@ -15396,7 +15396,7 @@
     "id": "folder-file-splitter",
     "name": "FolderFile Splitter",
     "author": "Xu Quan",
-    "description": "Splits folder and file lists into separate views, simplifying navigation, improving clarity, and making it more intuitive to organize your notes",
+    "description": "Splits folder and file lists into separate views, simplifying navigation, improving clarity, 和 making it more intuitive to organize your notes",
     "repo": "XuQuan-nikkkki/FolderFile-Splitter-Plugin"
   },
   {
@@ -15419,84 +15419,84 @@
     "author": "Jacob Williams",
     "description": "Helps with formatting and citing quotes.",
     "repo": "brokensandals/obsidian-paste-quote-plugin"
-  },
+  }，
   {
     "id": "yourpulse",
     "name": "YourPulse - Your Writing Activity Visualised",
     "description": "It's like your Github profile, but for your vault (featuring daily streak, average daily word count, comprehensive stats and plugins overview).",
     "author": "Jiri Sifalda",
     "repo": "jsifalda/obsipulse-plugin"
-  },
+  }，
   {
     "id": "image-size",
     "name": "Image Size",
     "author": "Jie Zhang",
     "description": "Set the default size for pasted images.",
     "repo": "cynicalight/obsidian-image-size"
-  },
+  }，
   {
     "id": "rsync",
     "name": "Rsync",
     "author": "Ganapathy Raman",
     "description": "Sync notes and automate backups using Rsync.",
     "repo": "GanapathyRaman/rsync-plugin"
-  },
+  }，
   {
     "id": "extended-markdown-syntax",
     "name": "Extended Markdown Syntax",
     "author": "Kotaindah55",
-    "description": "Extend your Markdown syntax using delimiters instead of HTML tags, such as underlining, superscript, subscript, highlighting, and spoiler.",
+    "description": "Extend your Markdown syntax using delimiters instead of HTML tags, such as underlining, superscript, subscript, highlighting, 和 spoiler.",
     "repo": "kotaindah55/extended-markdown-syntax"
-  },
+  }，
   {
     "id": "paste-image-into-property",
     "name": "Paste Image Into Property",
     "author": "Nito",
     "description": "Allows pasting images from the clipboard into frontmatter properties in live preview.",
     "repo": "Nitero/obsidian-paste-image-into-property"
-  },
+  }，
   {
     "id": "my-thesaurus",
     "name": "My Thesaurus",
     "author": "Mara-Li",
     "description": "Automagically adds tags based on a simple csv file or a Markdown table.",
     "repo": "Mara-Li/obsidian-my-thesaurus"
-  },
+  }，
   {
     "id": "mediaviewer",
     "name": "Media Viewer",
     "author": "Devon22",
     "description": "View and manage media files within your notes.",
     "repo": "Devon22/obsidian-mediaviewer"
-  },
+  }，
   {
     "id": "gridexplorer",
     "name": "GridExplorer",
     "author": "Devon22",
     "description": "Browse note files in a grid view.",
     "repo": "Devon22/obsidian-gridexplorer"
-  },
+  }，
   {
     "id": "infio-copilot",
     "name": "Infio Copilot",
     "author": "duanfuxiang0",
     "description": "A Cursor-inspired AI assistant for notes that offers smart autocomplete and interactive chat with your selected notes",
     "repo": "infiolab/infio-copilot"
-  },
+  }，
   {
     "id": "task-mover",
     "name": "Task Mover",
     "author": "Mariia Nebesnaia",
     "description": "Move unfinished tasks to the daily note automatically",
     "repo": "nemariia/task-mover"
-  },
+  }，
   {
     "id": "title-as-link-text",
     "name": "Title As Link Text",
     "author": "Lex Toumbourou",
     "description": "Automatically updates link text to use note titles instead of filenames.",
     "repo": "lextoumbourou/obsidian-title-as-link-text"
-  },
+  }，
   {
     "id": "cursor-position-history",
     "name": "Cursor Position History",
@@ -15853,84 +15853,84 @@
     "author": "Busyo",
     "description": "\u5e73\u6ed1\u5149\u6807 Smooth Cursor",
     "repo": "busyoGG/SmoothCursor"
-  },
+  }，
   {
     "id": "annotate-audio",
     "name": "Annotate Audio",
     "author": "VidE",
     "description": "Listen to an audio and add comments to it.",
     "repo": "12-VidE/annotate-audio"
-  },
+  }，
   {
     "id": "file-title-updater",
     "name": "File Title Updater",
     "author": "wenlzhang",
-    "description": "Synchronize titles between filename, frontmatter, and first heading in notes.",
+    "description": "Synchronize titles between filename, frontmatter, 和 first heading in notes.",
     "repo": "wenlzhang/obsidian-file-title-updater"
-  },
+  }，
   {
     "id": "vault-nickname",
     "name": "Vault Nickname",
     "author": "@rscopic",
     "description": "Override the vault's display name. Intended to disambiguate vaults with the same folder name when adhering to a common folder structure between projects.",
     "repo": "rscopic/obsidian-vault-nickname"
-  },
+  }，
   {
     "id": "chronotyper",
     "name": "Chronotyper",
     "description": "Track how long you edit notes directly in the note properties",
     "author": "BambusControl",
     "repo": "BambusControl/obsidian-chronotyper"
-  },
+  }，
   {
     "id": "link-opening-restore",
     "name": "Link Opening Restore",
     "author": "SmallZombie",
     "description": "Restore the link opening method to Ctrl + Left Click.",
     "repo": "SmallZombie/link-opening-restore"
-  },
+  }，
   {
     "id": "line-notes-sync",
     "name": "LINE Notes Sync",
     "author": "onikun94",
     "description": "Sync messages from LINE to your notes.",
     "repo": "onikun94/line_to_obsidian"
-  },
+  }，
   {
     "id": "hover-reveal",
     "name": "Hover Reveal",
     "author": "Shawn Yang",
     "description": "Shows hidden text in tooltips when hovering over marked elements using [visibleText]{tooltipText} syntax.",
     "repo": "Asrieal/HoverReveal"
-  },
+  }，
   {
     "id": "daily-news-briefing",
     "name": "Daily News Briefing",
     "author": "Adam Chen",
-    "description": "Get AI-powered daily news summaries in your vault. Features customizable topics, smart filtering, and automated scheduling.",
+    "description": "Get AI-powered daily news summaries in your vault. Features customizable topics, smart filtering, 和 automated scheduling.",
     "repo": "ChenziqiAdam/Daily-News-Briefing"
-  },
+  }，
   {
     "id": "wordflow-tracker",
     "name": "Wordflow Tracker",
     "author": "LeCheenaX",
     "description": "Track the changes and stats of your edited note files automatically. Record the modified notes and statistics to your daily note",
     "repo": "LeCheenaX/WordFlow-Tracker"
-  },
+  }，
   {
     "id": "mathtype",
     "name": "MathType",
     "author": "slateblua",
     "description": "Get MathJax syntax suggestions from natural language.",
     "repo": "slateblua/mathtype"
-  },
+  }，
   {
     "id": "auto-mover",
     "name": "AutoMover",
     "author": "Al0cam",
     "description": "Moves files with specified names into the same folder.",
     "repo": "al0cam/AutoMover"
-  },
+  }，
   {
     "id": "canvas-format-brush",
     "name": "Canvas Format Brush",
@@ -15958,147 +15958,147 @@
     "author": "networkmastered",
     "description": "Make your files smaller with compression!",
     "repo": "networkmastered/obsidian-compress"
-  },
+  }，
   {
     "id": "simple-archiver",
     "name": "Simple Archiver",
     "author": "Mike Farr",
     "description": "Move old, stinky notes and folders to an archive, where they belong.",
     "repo": "mfarr/obsidian-archive"
-  },
+  }，
   {
     "id": "tg-emoji-search",
     "name": "TG Emoji Search",
     "author": "MarsBatya",
     "description": "Lets you type out emojis like in Telegram.",
     "repo": "MarsBatya/tg-emoji-search"
-  },
+  }，
   {
     "id": "pinned-daily-notes",
     "name": "Pinned Daily Notes",
     "author": "Jeremy Neiman",
     "description": "Dynamically update a pinned tab with today's daily note",
     "repo": "docmarionum1/obsidian-pinned-daily-notes"
-  },
+  }，
   {
     "id": "ink-player",
     "name": "Ink Player",
     "author": "Uglyboy",
     "description": "Playing interactive fiction powered by Inkle's ink engine.",
     "repo": "uglyboy-tl/obsidian-ink-player"
-  },
+  }，
   {
     "id": "heading-decorator",
     "name": "Heading Decorator",
     "description": "Implement displaying specific content around headings based on their levels.",
     "author": "dragonish",
     "repo": "dragonish/obsidian-heading-decorator"
-  },
+  }，
   {
     "id": "backlink-full-path",
     "name": "Backlink Full Path",
     "author": "mnaoumov",
     "description": "Shows the backlink's full path in the backlinks panel.",
     "repo": "mnaoumov/obsidian-backlink-full-path"
-  },
+  }，
   {
     "id": "advanced-progress-bars",
     "name": "Advanced Progress Bars",
     "author": "cactuzhead",
     "description": "Progress bars that can change color depending on completion value - fully customizable.",
     "repo": "cactuzhead/Advanced-Progress-Bars"
-  },
+  }，
   {
     "id": "research-quest",
     "name": "Research Quest",
     "author": "Nathan Arthur",
     "description": "Use AI to generate and track research questions based on your notes.",
     "repo": "narthur/research-quest"
-  },
+  }，
   {
     "id": "yesterdays-note",
     "name": "Yesterday's note",
     "author": "Trevor Tyler Lee",
     "description": "Open yesterday's daily note.",
     "repo": "trevortylerlee/yesterdays-note"
-  },
+  }，
   {
     "id": "smart-chatgpt",
     "name": "Smart ChatGPT",
     "author": "\ud83c\udf34 Brian",
-    "description": "Integrate OpenAI's ChatGPT seamlessly in notes. Automatically saves links, allows marking threads as done, and integrates with Dataview.",
+    "description": "Integrate OpenAI's ChatGPT seamlessly in notes. Automatically saves links, allows marking threads as done, 和 integrates with Dataview.",
     "repo": "brianpetro/smart-chatgpt-obsidian"
-  },
+  }，
   {
     "id": "github-gitless-sync",
     "name": "GitHub Gitless Sync",
     "author": "Silvano Cerza",
     "description": "Sync a GitHub repository with vaults on different platforms without requiring git installation",
     "repo": "silvanocerza/github-gitless-sync"
-  },
+  }，
   {
     "id": "llm-test-gen",
     "name": "LLM Test Generator",
     "author": "Aldo E George",
     "description": "Generate AI-powered test questions from your notes with multiple LLM providers (OpenAI, Claude, Mistral, Gemini, DeepSeek) to enhance your learning and retention.",
     "repo": "aldo-g/obsidian-llm-test"
-  },
+  }，
   {
     "id": "wheel-tab-switcher",
     "name": "Wheel Tab Switcher",
     "author": "22-2",
     "description": "Switch between Tabs using your mouse wheel when hovering over tab headers",
     "repo": "22-2/wheel-tab-switcher"
-  },
+  }，
   {
     "id": "collapsible-code-blocks",
     "name": "Collapsible Code Blocks",
     "author": "Bradley Wyatt",
     "description": "Makes code blocks collapsible in preview mode as well as enabling scroll-able code blocks.",
     "repo": "bwya77/collapsible-code-blocks"
-  },
+  }，
   {
     "id": "cmd-search",
     "name": "CmdSearch",
     "author": "SpaceshipCaptain",
     "description": "Use the command pallete to search web. Add your own URLs.",
     "repo": "SpaceshipCaptain/CmdSearch"
-  },
+  }，
   {
     "id": "command-line",
     "name": "Command Line",
     "author": "Steven Stallion",
     "description": "Copy command lines from your notes to the clipboard.",
     "repo": "sstallion/obsidian-command-line"
-  },
+  }，
   {
     "id": "extended-graph",
     "name": "Extended Graph",
     "author": "Kapirklaa",
     "description": "Extends the features of the core Graph view, display images, manage states, remove links, change node shapes, and more.",
     "repo": "ElsaTam/obsidian-extended-graph"
-  },
+  }，
   {
     "id": "auto-folder-note-paste",
     "name": "Auto Folder Note Paste",
     "author": "d7sd6u",
     "description": "Automagically convert the note to a folder note when pasting or drag'n'dropping an attachment.",
     "repo": "d7sd6u/obsidian-auto-folder-note-paste"
-  },
+  }，
   {
     "id": "ai-helper",
     "name": "AI Helper",
     "author": "David Connolly",
     "description": "An AI helper tool for summarizing text and providing a chatbot to let you ask questions about your notes.",
     "repo": "davidjconnolly/obsidian-ai-helper"
-  },
+  }，
   {
     "id": "git-changelog",
     "name": "Git Changelog",
     "author": "shumadrid",
     "description": "Uses Git to display dynamic vault and file changelogs in the sidebar, useful for spotting data loss.",
     "repo": "shumadrid/obsidian-git-changelog"
-  },
+  }，
   {
     "id": "xiaohongshu-importer",
     "name": "Xiaohongshu Importer",
@@ -16154,63 +16154,63 @@
     "author": "CalfMoon",
     "description": "Customize factors effecting node size in graph.",
     "repo": "CalfMoon/node-factor"
-  },
+  }，
   {
     "id": "smart-day-night-switcher",
     "name": "Smart DayNight switcher",
     "author": "Andrii Hrushetskyi",
     "description": "Intelligently determines sunrise and sunset times and automatically switches the color scheme to light or dark mode.",
     "repo": "Andrii256/ops_obsidian_smart-day-night-switcher"
-  },
+  }，
   {
     "id": "kanban-status-updater",
     "name": "Kanban Status Updater",
     "author": "Ankit Kapur",
     "description": "Automatically updates a 'status' property in a note when its card is moved on a Kanban board",
     "repo": "ankit-kapur/obsidian-kanban-status-updater-plugin"
-  },
+  }，
   {
     "id": "pomobar",
     "name": "PomoBar",
     "author": "Miguel Pimentel",
-    "description": "A simple Pomodoro timer that lives in your status bar. Left click to start/stop, right click to reset when paused, middle click to cycle between 25/15/5 minute durations.",
+    "description": "A simple Pomodoro timer that lives in your status bar. Left click to start/stop, right click to reset when paused, middle click to cycle between 25/15/5 分钟之前 durations.",
     "repo": "semanticdata/obsidian-pomodoro"
-  },
+  }，
   {
     "id": "generate-timeline",
     "name": "Generate Timeline",
     "author": "Shanshuimei",
     "description": "Generate timelines from tag or folder automatically by any time properties.",
     "repo": "Shanshuimei/obsidian-generate-timeline"
-  },
+  }，
   {
     "id": "pdf-folder-to-markdowns",
     "name": "PDF Folder to Markdowns",
     "author": "CrisHood",
     "description": "Convert a folder of PDFs into Markdown files with embedded PDFs",
     "repo": "crishood/pdf-folder-to-markdowns"
-  },
+  }，
   {
     "id": "sticky-notes",
     "name": "Sticky Notes",
     "author": "NoPoint",
     "description": "Create sticky notes popups.",
     "repo": "Abdo-reda/obsidian-sticky-notes-plugin"
-  },
+  }，
   {
     "id": "note-to-red",
     "name": "Note to RED",
     "author": "Yeban",
     "description": "Convert Markdown notes to RED (Xiaohongshu) style images",
     "repo": "Yeban8090/note-to-red"
-  },
+  }，
   {
     "id": "hi-note",
     "name": "HiNote",
     "author": "Kai",
-    "description": "Add comments to highlighted notes, use AI for thinking, and flashcards for memory.",
+    "description": "Add comments to highlighted notes, use AI for thinking, 和 flashcards for memory.",
     "repo": "CatMuse/HiNote"
-  },
+  }，
   {
     "id": "private-mode",
     "name": "Private Mode",
@@ -16273,161 +16273,161 @@
     "author": "Learner Chen",
     "description": "AI assisting writing, Rendering and publishing notes to WeChat MP platform",
     "repo": "learnerchen-forever/wewrite"
-  },
+  }，
   {
     "id": "smart-vault-visualizer",
     "name": "Smart Vault Visualizer",
     "author": "Evan Moscoso",
     "description": "Visualizes and manages smart clusters and cluster groups in your vault.",
     "repo": "Mossy1022/Smart-Connections-Vault-Visualizer"
-  },
+  }，
   {
     "id": "browser-history",
     "name": "Browser History",
     "author": "noy4",
     "description": "Sync your browser history to notes.",
     "repo": "noy4/browser-history"
-  },
+  }，
   {
     "id": "related-notes",
     "name": "Related Notes",
     "author": "Oluwasanya Awe",
     "description": "Discover related notes in your vault.",
     "repo": "mrboxtobox/obsidian-related-notes"
-  },
+  }，
   {
     "id": "rename-file-to-selection",
     "name": "Rename File to Selection",
     "author": "Aava",
     "description": "Rename your file to the current text selection.",
     "repo": "AavaGames/obsidian-rename-file-to-selection"
-  },
+  }，
   {
     "id": "white-noise",
     "name": "White Noise",
     "author": "Zhou Hua",
     "description": "Play white noise to help you focus on your work.",
     "repo": "zhouhua/obsidian-white-noise"
-  },
+  }，
   {
     "id": "anki-integration",
     "name": "Anki Integration",
     "author": "Noah Boos AKA Rift",
     "description": "Create flashcards from your notes with a seamless interface, structuring them with metadata and syncing effortlessly via AnkiConnect.",
     "repo": "NoahBoos/obsidian-anki-integration"
-  },
+  }，
   {
     "id": "jira-sync",
     "name": "Jira Issue Manager",
     "author": "Alamion",
     "description": "Get Jira issues, create and update them. Issue status and worklog management.",
     "repo": "Alamion/obsidian-jira-sync"
-  },
+  }，
   {
     "id": "theme-toggle",
     "name": "Theme toggle",
     "author": "@gapmiss",
     "description": "Dark/light theme toggle via ribbon icon or command.",
     "repo": "gapmiss/theme-toggle"
-  },
+  }，
   {
     "id": "data-fetcher",
     "name": "Data Fetcher",
     "author": "qf3l3k",
     "description": "Fetch data from multiple sources (REST APIs, RPC, gRPC, GraphQL) and insert results into notes",
     "repo": "qf3l3k/obsidian-data-fetcher"
-  },
+  }，
   {
     "id": "codeless-heatmap-calendar",
     "name": "Codeless Heatmap Calendar",
     "author": "Behnam Aghajani",
     "description": "Fully-featured activity visualizer powered by Toggl data and more.",
     "repo": "webtechaccess/obsidian-heatmap-calendar"
-  },
+  }，
   {
     "id": "on-this-day-i",
     "name": "On This Day I",
     "author": "Ben Stuart",
     "description": "Summarize a calendar date in years past with Daily Journals",
     "repo": "benstuart0/on-this-day-i-obsidian"
-  },
+  }，
   {
     "id": "large-language-models",
     "name": "Large Language Models",
     "author": "eharris128, r-mahoney, & jsmorabito",
     "description": "Enables access to LLMs via remote providers (OpenAI, Claude, Gemini) and local LLMs via GPT4ALL.",
     "repo": "eharris128/Obsidian-LLM-Plugin"
-  },
+  }，
   {
     "id": "hide-index-files",
     "name": "Hide Index Files",
     "description": "Hide index files (folder notes) more reliably.",
     "author": "d7sd6u",
     "repo": "d7sd6u/obsidian-hide-index-files"
-  },
+  }，
   {
     "id": "crosslink-advanced",
     "name": "Crosslink Advanced",
     "description": "Tag files using folders and symlinks system (ftags).",
     "author": "d7sd6u",
     "repo": "d7sd6u/obsidian-crosslink-advanced"
-  },
+  }，
   {
     "id": "folder-navigator",
     "name": "Folder Navigator",
     "author": "wenlzhang",
     "description": "Quickly navigate to folders in your vault using fuzzy search.",
     "repo": "wenlzhang/obsidian-folder-navigator"
-  },
+  }，
   {
     "id": "digital-sticky-notes",
     "name": "Digital Sticky Notes",
     "author": "dgggg",
-    "description": "A lightweight plugin that digitizes physical sticky notes, helping you quickly save, organize, and retrieve temporary notes.",
+    "description": "A lightweight plugin that digitizes physical sticky notes, helping you quickly save, organize, 和 retrieve temporary notes.",
     "repo": "dalecgu/obsidian-sticky-notes"
-  },
+  }，
   {
     "id": "querydash",
     "name": "QueryDash",
     "author": "lwx",
-    "description": "Add new views and enhanced features for bases. Inspired by Dataview and bases, this includes search, sorting, and pagination functionalities similar to Notion.",
+    "description": "Add new views and enhanced features for bases. Inspired by Dataview and bases, this includes search, sorting, 和 pagination functionalities similar to Notion.",
     "repo": "liufree/obsidian-querydash"
-  },
+  }，
   {
     "id": "disciples-journal",
     "name": "Disciples Journal",
     "author": "Scott Tomaszewski (Xentis)",
     "description": "Embed Bible references and passages in your notes and read the Bible.",
     "repo": "scottTomaszewski/obsidian-disciples-journal"
-  },
+  }，
   {
     "id": "minimal-quiz",
     "name": "Minimal Quiz",
     "author": "Lutu-gl",
-    "description": "Start a quick Markdown-based quiz on your current note. Simple, straightforward, and fully integrated \u2014 similar to flashcards in Anki or Quizlet!",
+    "description": "Start a quick Markdown-based quiz on your current note. Simple, straightforward, 和 fully integrated \u2014 similar to flashcards in Anki or Quizlet!",
     "repo": "Lutu-gl/Obsidian-Minimal-Quiz"
-  },
+  }，
   {
     "id": "auto-bullet",
     "name": "Auto Bullet",
     "author": "takitsuba",
     "description": "Automatically inserts bullet points when you type spaces or tabs at the beginning of a line.",
     "repo": "takitsuba/obsidian-auto-bullet"
-  },
+  }，
   {
     "id": "word-frequency",
     "name": "Word Frequency",
     "author": "Mike Rodarte",
     "description": "Counts the most frequently used words in a note and displays them in the sidebar.",
     "repo": "mts7/obsidian-word-frequency"
-  },
+  }，
   {
     "id": "come-down",
     "name": "Come Down",
     "author": "mntno",
     "description": "Maintains a cache of your notes\u2019 embedded external images.",
     "repo": "mntno/obsidian-come-down"
-  },
+  }，
   {
     "id": "interactive-ratings",
     "name": "Interactive Ratings",
@@ -16441,84 +16441,84 @@
     "author": "delphi-2015",
     "description": "Sync your Cubox articles & annotations",
     "repo": "OLCUBO/obsidian-cubox"
-  },
+  }，
   {
     "id": "mention-things",
     "name": "Mention Things",
     "author": "Philipp Stracker",
     "description": "Define a list of prefixes to trigger an autocomplete suggestion to insert a link.",
     "repo": "stracker-phil/obsidian-mention-things"
-  },
+  }，
   {
     "id": "progress-tracker",
     "name": "ProgressTracker",
     "author": "Van Nam",
     "description": "Track task completion with a visual progress bar in your sidebar, auto update column Kanban",
     "repo": "vannamhh/progress-tracker"
-  },
+  }，
   {
     "id": "easy-copy",
     "name": "Easy Copy",
     "author": "Moy",
     "description": "Easily copy the text within inline code, bold text (and many other formats), or quickly generate an elegant link to a heading or block.",
     "repo": "Moyf/easy-copy"
-  },
+  }，
   {
     "id": "open-tab-settings",
     "name": "Open Tab Settings",
     "author": "jesse-r-s-hines",
     "description": "Adds options to customize how tabs are opened, including open in new tab by default, preventing duplicate tabs, and more.",
     "repo": "jesse-r-s-hines/obsidian-open-tab-settings"
-  },
+  }，
   {
     "id": "image-share",
     "name": "Image Share",
     "author": "Shawn",
     "description": "Share selected text as beautiful images.",
     "repo": "iqijun/obsidian-image-share"
-  },
+  }，
   {
     "id": "clippermaster",
     "name": "ClipperMaster",
     "author": "aqeja",
     "description": "Works with the ClipperMaster Chrome extension to clip structured content from the web and save it to your vault as Markdown files.",
     "repo": "aqeja/ClipperMaster-for-Obsidian"
-  },
+  }，
   {
     "id": "paste-reformatter",
     "name": "Paste Reformatter",
     "author": "Keath Milligan",
     "description": "Reformats pasted text for precise control.",
     "repo": "keathmilligan/obsidian-paste-reformatter"
-  },
+  }，
   {
     "id": "csv-lite",
     "name": "CSV Lite",
     "author": "Jay Bridge",
     "description": "Just open and edit a CSV file in workspace view, no more. Keep it simple.",
     "repo": "LIUBINfighter/csv-lite"
-  },
+  }，
   {
     "id": "double-row-toolbar",
     "name": "Double row toolbar",
     "author": "Lorens Osman",
-    "description": "Adds a second row to the toolbar on mobile devices, allowing for more quick access buttons.",
+    "description": "Adds 1 秒之前 row to the toolbar on mobile devices, allowing for more quick access buttons.",
     "repo": "lorens-osman-dev/double-row-toolbar"
-  },
+  }，
   {
     "id": "advanced-debug-mode",
     "name": "Advanced Debug Mode",
     "author": "mnaoumov",
     "description": "Enhances debugging experience.",
     "repo": "mnaoumov/obsidian-advanced-debug-mode"
-  },
+  }，
   {
     "id": "note-locker",
     "name": "Note Locker",
     "author": "Felvesthe",
     "description": "Lock notes to open in preview mode by default.",
     "repo": "Felvesthe/Note-Locker"
-  },
+  }，
   {
     "id": "inscribe",
     "name": "Inscribe",
@@ -16833,84 +16833,84 @@
     "author": "iaos",
     "description": "Renames pasted images and covert the formats",
     "repo": "Yiaos/obsidian-paste-image-rename-convert"
-  },
+  }，
   {
     "id": "enhanced-publisher",
     "name": "Enhanced Publisher",
     "author": "Cube",
     "description": "\u589e\u5f3a\u53d1\u5e03\u63d2\u4ef6\uff0c\u652f\u6301\u56fe\u7247\u65f6\u81ea\u52a8\u5b58\u50a8\u3001HTML\u9884\u89c8\u548c\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7\u7b49\u5185\u5bb9\u5e73\u53f0\u3002",
     "repo": "chararch/obsidian-enhanced-publisher"
-  },
+  }，
   {
     "id": "tasks-cleaner",
     "name": "Tasks Cleaner",
     "author": "lowit",
     "description": "Find and remove outdated tasks.",
     "repo": "lowitea/obsidian-tasks-cleaner"
-  },
+  }，
   {
     "id": "mark-open-files",
     "name": "Mark Open Files",
     "author": "Michael Schrauzer",
     "description": "Enhances the File Explorer by adding a marker to all the File Explorer items that are currently open in the workspace.",
     "repo": "gasparschott/obsidian-mark-open-files"
-  },
+  }，
   {
     "id": "prettier-format",
     "name": "Format Automatically with Prettier",
     "author": "Dylan Armstrong",
     "description": "Format files with Prettier using built-in settings for configuration.",
     "repo": "dylanarmstrong/obsidian-prettier-plugin"
-  },
+  }，
   {
     "id": "filename-styler",
     "name": "FileName Styler",
     "author": "Marc Feininger",
     "description": "Customize and style file names in the file explorer using patterns, prefixes, suffixes, colors, and icons.",
     "repo": "marc-f/obsidian-file-name-styler"
-  },
+  }，
   {
     "id": "jira-links-shortener",
     "name": "JIRA links shortener",
     "author": "Ruslans Platonovs",
     "description": "Modifies pasted JIRA links to use JIRA issue number as the link title",
     "repo": "rplatonovs/obsidian-jira-links-shortener"
-  },
+  }，
   {
     "id": "youtrack-fetcher",
     "name": "YouTrack Fetcher",
     "author": "Forketyfork",
     "description": "Fetches YouTrack issues into notes",
     "repo": "forketyfork/obsidian-youtrack-fetcher"
-  },
+  }，
   {
     "id": "cut-the-fluff",
     "name": "Cut The Fluff",
     "author": "Adam Fletcher",
     "description": "Make your writing clearer by checking for unnecessary complexity and clutter.",
     "repo": "adamfletcher/obsidian-cut-the-fluff"
-  },
+  }，
   {
     "id": "simple-colored-folder",
     "name": "Simple Colored Folder",
     "author": "Mara-Li",
     "description": "Automagically add color to roots folders, and customize it with Style Settings.",
     "repo": "Mara-Li/obsidian-simple-colored-folder"
-  },
+  }，
   {
     "id": "simple-password",
     "name": "Simple Password",
     "author": "Lucy Dryaeva",
     "description": "Protect your vault behind a password",
     "repo": "ShadiestGoat/obsidian-simple-password"
-  },
+  }，
   {
     "id": "image-border-style",
     "name": "Image Border Style",
     "author": "Anurag Shenoy",
     "description": "Border styling for images in markdown notes.",
     "repo": "shenoy-anurag/obsidian-image-border-style"
-  },
+  }，
   {
     "id": "wakatime-kvh",
     "name": "Wakatime / Wakapi",
@@ -17533,91 +17533,91 @@
     "author": "Siddhartha Khuntia",
     "description": "Cycle heading levels and display visual heading indicators in the gutter.",
     "repo": "sidkhuntia/obsdian-headings-helper"
-  },
+  }，
   {
     "id": "slash-snippets",
     "name": "Slash snippets",
     "author": "echo-saurav",
     "description": "Use slash command to insert quick text",
     "repo": "echo-saurav/slash-snippets-plugin"
-  },
+  }，
   {
     "id": "scrolling",
     "name": "Scrolling",
     "author": "omeyenburg",
     "description": "Improve scrolling and keep your cursor exactly where you want it.",
     "repo": "omeyenburg/obsidian-scrolling"
-  },
+  }，
   {
     "id": "random-broken-link",
     "name": "Random broken link",
     "author": "janTatesa",
     "description": "Expand your knowledge by visiting random broken links.",
     "repo": "janTatesa/obsidian-open-random-broken-link"
-  },
+  }，
   {
     "id": "copy-absolute-path",
     "name": "Copy Absolute Path",
     "author": "Albert O'Shea",
     "description": "Copy the system absolute path of files and folders to the clipboard.",
     "repo": "Alb-O/obsidian-copy-absolute-path"
-  },
+  }，
   {
     "id": "hyperlink-remover",
     "name": "Link Remover",
     "author": "Daniel Agafonov",
     "description": "Easily remove hyperlinks and wikilinks from selected text or the entire note.",
     "repo": "AlphaHasher/obsidian-remove-links"
-  },
+  }，
   {
     "id": "kindle-highlights-import",
     "name": "Kindle Highlights Import",
     "author": "Leon Luttenberger",
     "description": "Imports the Kindle highlights HTML file and saves it as a note in your vault.",
     "repo": "LeonLuttenberger/obsidian-kindle-highlight-import"
-  },
+  }，
   {
     "id": "eccirian",
     "name": "Eccirian Encrypt",
     "author": "Entropiex",
     "description": "Encrypt your notes using advanced encryption algorithms.",
     "repo": "Enthalpiex/Eccirian-Encrypt"
-  },
+  }，
   {
     "id": "rtl-math-text",
     "name": "RTL Math Text",
     "author": "orelby",
     "description": "Mix right-to-left and left-to-right text in math expressions using configurable commands.",
     "repo": "orelby/obsidian-rtl-math-text-plugin"
-  },
+  }，
   {
     "id": "table-list",
     "name": "Table List",
     "author": "Akaswan",
     "description": "Adds a table view to manage your tasks.",
     "repo": "Akaswan/table-list"
-  },
+  }，
   {
     "id": "coalesce",
     "name": "Coalesce",
     "author": "Floyd",
     "description": "Coalesce your backlinked notes into a single view",
     "repo": "bfloydd/coalesce"
-  },
+  }，
   {
     "id": "current-view",
     "name": "Current View",
     "author": "Lucas Ostmann",
     "description": "Automatically set the view mode (Reading, Live Preview, Source) for notes using folder rules, file patterns, or frontmatter",
     "repo": "LucEast/obsidian-current-view"
-  },
+  }，
   {
     "id": "replace-pencil",
     "name": "Replace Pencil",
     "author": "penyt",
     "description": "Easily replace the custom variable in the code block.",
     "repo": "penyt/replace-pencil"
-  },
+  }，
   {
     "id": "alpha-bullet",
     "name": "Alpha Bullet",
@@ -17685,7 +17685,7 @@
     "id": "sidebar-highlights",
     "name": "Sidebar Highlights",
     "author": "trevware",
-    "description": "View and manage text highlights, comments on highlights, native comments, and collections for your highlights.",
+    "description": "View and manage text highlights, comments on highlights, native comments, 和 collections for your highlights.",
     "repo": "trevware/obsidian-sidebar-highlights"
   },
   {
@@ -17736,63 +17736,63 @@
     "author": "Lukas Mayr",
     "description": "Simple way to sync basic flashcards with Anki with zero time tweaking settings and 100 % of your time learning.",
     "repo": "lukmay/simple-anki-sync"
-  },
+  }，
   {
     "id": "frontmatter-link-classes",
     "name": "Frontmatter Metadata Link Classes",
     "author": "Varvara Zmeeva / zmeeva.io",
     "description": "Adds classes to internal links based on frontmatter metadata.",
     "repo": "zmeeeeeva/obsidian-plugin-metadata-link-classes"
-  },
+  }，
   {
     "id": "insert-arknights-url-banner",
     "name": "Insert Arknights URL Banner",
     "author": "Rerurate_514",
     "description": "Select the Arknights image and place it in the banner property.",
     "repo": "Rerurate514/insert_ArknightsURL_banners"
-  },
+  }，
   {
     "id": "better-mindmap",
     "name": "Better Mind Map",
     "author": "Utkarsh Raj",
     "description": "Visualize notes as interactive mind maps",
     "repo": "linem-davton/obsidian-better-mindmap"
-  },
+  }，
   {
     "id": "blueprint-renderer",
     "name": "Blueprint Renderer",
     "author": "goderyu",
     "description": "Render Unreal Engine Blueprint nodes as interactive visual diagrams using BlueprintUE rendering engine",
     "repo": "goderyu/obsidian-blueprint-renderer"
-  },
+  }，
   {
     "id": "deepseek-ai-assistant",
     "name": "deepseek-ai-assistant",
     "author": "algernon",
     "description": "Help you to study with ai-prompting",
     "repo": "mali-i/deepseek-ai-assistant"
-  },
+  }，
   {
     "id": "food-tracker",
     "name": "Food Tracker",
     "author": "Forketyfork",
     "description": "Track your food intake (calories, macronutrients) and nutritional information",
     "repo": "forketyfork/obsidian-food-tracker"
-  },
+  }，
   {
     "id": "object-oriented-thinking",
     "name": "Object Oriented Thinking",
     "author": "Tiago Jacinto",
     "description": "Add inheritance-like behavior to notes.",
     "repo": "TiagoJacinto/obsidian-object-oriented-thinking"
-  },
+  }，
   {
     "id": "send-to-canvas",
     "name": "Send to Canvas",
     "author": "wenlzhang",
-    "description": "Send tasks, blocks, and notes to Canvas files as plain text, links, and embeds.",
+    "description": "Send tasks, blocks, 和 notes to Canvas files as plain text, links, 和 embeds.",
     "repo": "wenlzhang/obsidian-send-to-canvas"
-  },
+  }，
   {
     "id": "pdf-emojis",
     "name": "PDF Emojis",
@@ -17832,7 +17832,7 @@
     "id": "storyteller-suite",
     "name": "Storyteller Suite",
     "author": "Maws",
-    "description": "A comprehensive suite for managing characters, locations, events, and galleries for your stories.",
+    "description": "A comprehensive suite for managing characters, locations, events, 和 galleries for your stories.",
     "repo": "Maws7140/obsidian-storyteller-suite"
   },
   {
@@ -17881,7 +17881,7 @@
     "id": "phrasesync",
     "name": "PhraseSync",
     "author": "Digvijay S. Todiwal",
-    "description": "Auto-suggests internal links mid-sentence from note titles, headings, and block references.",
+    "description": "Auto-suggests internal links mid-sentence from note titles, headings, 和 block references.",
     "repo": "digvijay-s-todiwal/phrasesync"
   },
   {
@@ -17902,7 +17902,7 @@
     "id": "new-3d-graph",
     "name": "New 3D Graph",
     "author": "Aryan Gupta",
-    "description": "Visualize your Vault in 3D with a powerful, highly customizable, and filterable graph.",
+    "description": "Visualize your Vault in 3D with a powerful, highly customizable, 和 filterable graph.",
     "repo": "Apoo711/obsidian-3d-graph"
   },
   {
@@ -18679,7 +18679,7 @@
     "id": "card-viewer",
     "name": "Card Viewer",
     "author": "vsme",
-    "description": "Display cards for movies, TV shows, books, and music.",
+    "description": "Display cards for movies, TV shows, books, 和 music.",
     "repo": "vsme/obsidian-card-viewer"
   },
   {
@@ -18807,5 +18807,12 @@
     "author": "Pluppen",
     "description": "Encrypts and decrypts the contents of the vault using a password.",
     "repo": "pluppen/obsidian-vault-encrypt-plugin"
-  }
+  },
+  {
+  "id": "obsidian-novel-mobile-view",
+  "name": "Novel Mobile View",
+  "author": "Hailey",
+  "description": "Simulates a mobile phone reading view, making it suitable for use when writing novels.",
+  "repo": "hailey07/obsidian-novel-mobile-view"
+}
 ]
